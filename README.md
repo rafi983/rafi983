@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there, I'm Rafi 👋
 
 ## I'm a Developer !!
@@ -38,4 +36,3 @@
 [instagram]: https://www.instagram.com/zamanrafiirfan
 [linkedin]: https://www.linkedin.com/in/rafi-irfan-zaman-4a4aa7213
 [facebook]: https://www.facebook.com/profile.php?id=100004736232163
-
