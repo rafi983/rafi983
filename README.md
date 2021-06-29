@@ -1,7 +1,7 @@
 ### Hi there, I'm Rafi 👋
 <img src="https://st4.depositphotos.com/9427320/21224/v/1600/depositphotos_212246148-stock-illustration-web-development-banner.jpg" width="750rem" height="560rem"/>
 
-## I'm a Developer !!
+## I'm a Web Developer !!
 
 - 🌱 I’m currently learning mern stack
 - 👯 I’m looking to contribute more in github in the upcoming days 🤣
