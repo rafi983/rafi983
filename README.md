@@ -1,5 +1,5 @@
 ### Hi there, I'm Rafi 👋
-<img src="https://st4.depositphotos.com/9427320/21224/v/1600/depositphotos_212246148-stock-illustration-web-development-banner.jpg" width="750rem" height="250rem"/>
+<img src="https://st4.depositphotos.com/9427320/21224/v/1600/depositphotos_212246148-stock-illustration-web-development-banner.jpg" width="750rem" height="500rem"/>
 
 ## I'm a Developer !!
 
