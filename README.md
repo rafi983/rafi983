@@ -1,6 +1,4 @@
 
-
-<img src="https://wakatime.com/share/@rafi983/6fa519f1-756d-458d-8202-0ad4860d625f.svg">
 ![I am GitHub Readme Generator's creator](https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg)
 
 <h1 align="center">Hi 👋, I'm RafiZaman</h1>
