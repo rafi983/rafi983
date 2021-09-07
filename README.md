@@ -22,7 +22,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi983)](https://github.com/anuraghazra/github-readme-stats)
 ![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafi983&show_icons=true&theme=radical)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafi983)](https://github.com/rafi983/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
