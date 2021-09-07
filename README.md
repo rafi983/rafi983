@@ -35,3 +35,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Hungry-Monster)](https://github.com/rafi983/Hungry-Monster)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=WeatherApp-Js)](https://github.com/rafi983/WeatherApp-Js)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Natours)](https://github.com/rafi983/Natours)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Glassmorphism-Calculator)](https://github.com/rafi983/Glassmorphism-Calculator)
