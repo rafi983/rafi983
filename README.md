@@ -21,6 +21,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafi983&show_icons=true&locale=en&layout=compact" alt="rafi983" /></p>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi983)](https://github.com/anuraghazra/github-readme-stats)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafi983&show_icons=true&locale=en" alt="rafi983" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafi983&" alt="rafi983" /></p>
