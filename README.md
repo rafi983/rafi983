@@ -27,3 +27,6 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rafi983)  
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
