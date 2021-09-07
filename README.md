@@ -24,3 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafi983&show_icons=true&locale=en" alt="rafi983" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafi983&" alt="rafi983" /></p>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rafi983)  
+
