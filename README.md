@@ -1,6 +1,3 @@
-<img src="https://www.onlinecoursereport.com/wp-content/uploads/2020/07/shutterstock_394793860-1024x784.jpg" height="800px" width="1000px">
-
-
 
 <h1 align="center">Hi 👋, I'm Rafi Zaman</h1>
 <h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
