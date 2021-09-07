@@ -1,4 +1,7 @@
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafi983)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![I am GitHub Readme Generator's creator](https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg)
 
 <h1 align="center">Hi 👋, I'm Rafi Zaman</h1>
