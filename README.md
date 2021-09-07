@@ -1,4 +1,4 @@
-<img src="https://www.onlinecoursereport.com/wp-content/uploads/2020/07/shutterstock_394793860-1024x784.jpg" height="200px" width="500px">
+<img src="https://www.onlinecoursereport.com/wp-content/uploads/2020/07/shutterstock_394793860-1024x784.jpg" height="800px" width="1000px">
 
 
 
