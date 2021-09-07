@@ -1,5 +1,22 @@
 
 
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://www.onlinecoursereport.com/wp-content/uploads/2020/07/shutterstock_394793860-1024x784.jpg)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Rafi Zaman</h1>
 <h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
 
