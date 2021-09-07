@@ -1,4 +1,4 @@
-<figure><embed src="https://wakatime.com/share/@rafi983/c7653fae-50f8-4ec7-bfa9-aff3826266b7.svg"></embed></figure>
+<img src="https://wakatime.com/share/@rafi983/c7653fae-50f8-4ec7-bfa9-aff3826266b7.svg">
 
 
 ![I am GitHub Readme Generator's creator](https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg)
