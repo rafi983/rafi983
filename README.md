@@ -1,29 +1,5 @@
 
 
-
-
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://scontent.fmaa1-1.fna.fbcdn.net/v/t1.6435-9/162877557_1776090709225453_7186368069095115075_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=go4TPO5096cAX_teJ4q&_nc_ht=scontent.fmaa1-1.fna&oh=60e0e72a6d95474eb4c9ca7f18d1c434&oe=615D3CE1)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Rafi Zaman</h1>
 <h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
 
