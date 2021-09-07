@@ -2,7 +2,7 @@
 
 ![I am GitHub Readme Generator's creator](https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg)
 
-<h1 align="center">Hi 👋, I'm Rafi Zaman</h1>
+<h1 align="center">Hi 👋, I'm RafiZaman</h1>
 <h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafi983&label=Profile%20views&color=0e75b6&style=flat" alt="rafi983" /> </p>
