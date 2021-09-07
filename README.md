@@ -26,7 +26,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafi983&theme=radical" alt="rafi983" /></p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rafi983)  
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-
