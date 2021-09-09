@@ -1,6 +1,4 @@
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
-
 ![I am GitHub Readme Generator's creator](https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg)
 
 <h1 align="center">Hi 👋, I'm RafiZaman</h1>
@@ -9,6 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafi983&label=Profile%20views&color=0e75b6&style=flat" alt="rafi983" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafi983" alt="rafi983" /></a> </p>
+
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 
 - 🔭 I’m currently working on **Some frontend different projects**
 
