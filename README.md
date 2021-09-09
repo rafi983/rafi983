@@ -4,6 +4,11 @@
 <h1 align="center">Hi 👋, I'm RafiZaman</h1>
 <h3 align="center">A Frontend Web Developer</h3>
 
+### Glad to see you here! :octocat:
+
+> I'm a **Front End Web Developer**. I am a tech enthusiast.I studied B.sc Engineering in RUET.But unfortunately I couldn't get going due to my illness.After this i had to leave my university and then i devoted myself to learn coding.Programming is a vast knowledge of skills and logics.For that u need to work harder and to achive that skill i am trying my heart and soul to be a better programmer.I have huge interests in software development.Now i am working on web development field and continuously learning as well.
+---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafi983&label=Profile%20views&color=0e75b6&style=flat" alt="rafi983" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafi983" alt="rafi983" /></a> </p>
