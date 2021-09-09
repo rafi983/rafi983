@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafi983" alt="rafi983" /></a> </p>
 
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
+<img align="right" height="250" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 
 - 🔭 I’m currently working on **Some frontend different projects**
 
