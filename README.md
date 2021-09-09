@@ -1,4 +1,6 @@
 
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
+
 ![I am GitHub Readme Generator's creator](https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg)
 
 <h1 align="center">Hi 👋, I'm RafiZaman</h1>
