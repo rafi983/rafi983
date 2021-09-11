@@ -90,7 +90,7 @@ const rafi = {
 
 
 
-[![rafi983's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafi983&theme=vision-friendly-dark)]
+[![rafi983's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafi983&theme=vision-friendly-dark)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi983&theme=vision-friendly-dark)]
