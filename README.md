@@ -1,7 +1,4 @@
 
-
-
-
 ![I am GitHub Readme Generator's creator](https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg)
 
 <h1 align="center">Hi 👋, I'm RafiZaman</h1>
