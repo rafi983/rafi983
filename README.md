@@ -90,6 +90,8 @@ const rafi = {
 
 ---<!--START_SECTION:waka-->
 ```text
+Week: 06 September, 2021 - 12 September, 2021
+
 JavaScript   12 hrs 29 mins  ████████████████▓░░░░░░░░   66.88 % 
 HTML         3 hrs 30 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.79 % 
 CSS          2 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
