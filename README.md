@@ -1,12 +1,4 @@
 
-<!--START_SECTION:waka-->
-```text
-JavaScript   12 hrs 29 mins  ████████████████▓░░░░░░░░   66.88 % 
-HTML         3 hrs 30 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.79 % 
-CSS          2 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Markdown     27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-```
-<!--END_SECTION:waka-->
 
 
 ![I am GitHub Readme Generator's creator](https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg)
@@ -96,9 +88,14 @@ const rafi = {
 }
 ```
 
----
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafi983)](https://github.com/anuraghazra/github-readme-stats)
+---<!--START_SECTION:waka-->
+```text
+JavaScript   12 hrs 29 mins  ████████████████▓░░░░░░░░   66.88 % 
+HTML         3 hrs 30 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.79 % 
+CSS          2 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Markdown     27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+```
+<!--END_SECTION:waka-->
 
 
 
