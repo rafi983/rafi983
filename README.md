@@ -175,9 +175,9 @@ C                        1 repo              ░░░░░░░░░░░�
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi983&card_width=800&theme=vision-friendly-dark)
 
-![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafi983&show_icons=true&theme=vision-friendly-dark)
+![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafi983&card_width=800&show_icons=true&theme=vision-friendly-dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafi983&theme=vision-friendly-dark" alt="rafi983" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafi983&card_width=800&theme=vision-friendly-dark" alt="rafi983" /></p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rafi983)  
 
