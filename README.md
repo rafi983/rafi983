@@ -165,7 +165,7 @@ C                        1 repo              ░░░░░░░░░░░�
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/rafi983/rafi983/main/charts/bar_graph.png) 
-<img align="right" height="500" width="500" src="https://wakatime.com/share/@rafi983/9b4055e6-240f-446a-b52a-43aab0b2c1ed.svg" />
+<img align="right" height="450" width="450" src="https://wakatime.com/share/@rafi983/9b4055e6-240f-446a-b52a-43aab0b2c1ed.svg" />
 
  Last Updated on 13/09/2021
 <!--END_SECTION:waka-->
