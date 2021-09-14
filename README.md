@@ -173,7 +173,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi983&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi983&card_width=10&theme=vision-friendly-dark)
 
 ![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafi983&show_icons=true&theme=vision-friendly-dark)
 
