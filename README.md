@@ -174,7 +174,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
-[![rafi983's github activity graph](https://activity-graph.herokuapp.com/graph?username=rafi983&theme=react-dark)]
+![rafi983's github activity graph](https://activity-graph.herokuapp.com/graph?username=rafi983&theme=react-dark)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=FancySlider&theme=omni)](https://github.com/rafi983/FancySlider)
