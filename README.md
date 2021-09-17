@@ -172,7 +172,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafi983&theme=vision-friendly-dark" alt="rafi983" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rafi983)  
+
 
 
 
