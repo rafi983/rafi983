@@ -174,6 +174,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rafi983&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=FancySlider&theme=omni)](https://github.com/rafi983/FancySlider)
