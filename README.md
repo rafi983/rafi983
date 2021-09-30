@@ -82,6 +82,7 @@ const rafi = {
         misc: ["Firebase"]
     },
     currentFocus: "Front-End Web Development",
+    nextTarget: "Competitive programming"
 }
 ```
 
