@@ -87,7 +87,7 @@ const rafi = {
 ```
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
 
 **🐱 My GitHub Data** 
 
@@ -97,9 +97,9 @@ const rafi = {
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 94 Public Repositories 
+> 📜 87 Public Repositories 
  > 
-> 🔑 1 Private Repository 
+> 🔑 8 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -163,7 +163,7 @@ SCSS                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2021
+ Last Updated on 09/10/2021
 <!--END_SECTION:waka-->
 
 
