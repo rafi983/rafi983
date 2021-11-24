@@ -1,5 +1,4 @@
 
-
 ![I am GitHub Readme Generator's creator](https://richestsoft.com/blog/wp-content/uploads/2019/04/web-development-banner.jpg)
 
 <h1 align="center">Hi 👋, I'm RafiZaman</h1>
@@ -173,9 +172,6 @@ SCSS                     4 repos             █░░░░░░░░░░�
 ![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafi983&show_icons=true&theme=vision-friendly-dark)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafi983&theme=vision-friendly-dark" alt="rafi983" /></p>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rafi983)](https://github.com/rafi983/github-readme-activity-graph)
-
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=FancySlider&theme=omni)](https://github.com/rafi983/FancySlider)
