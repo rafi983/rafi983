@@ -173,7 +173,7 @@ SCSS                     4 repos             █░░░░░░░░░░�
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafi983&theme=vision-friendly-dark" alt="rafi983" /></p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rafi983)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://stormy-falls-37351.herokuapp.com/graph?username=rafi983)](https://github.com/rafi983/github-readme-activity-graph)
 
 
 
