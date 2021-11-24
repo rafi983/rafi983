@@ -173,6 +173,9 @@ SCSS                     4 repos             █░░░░░░░░░░�
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafi983&theme=vision-friendly-dark" alt="rafi983" /></p>
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rafi983)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=FancySlider&theme=omni)](https://github.com/rafi983/FancySlider)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Tic-Tac-Toe&theme=omni)](https://github.com/rafi983/Tic-Tac-Toe)
