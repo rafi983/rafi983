@@ -1,6 +1,5 @@
 
-![I am GitHub Readme Generator's creator](https://richestsoft.com/blog/wp-content/uploads/2019/04/web-development-banner.jpg)
-<img  src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img width="600" height="200" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 <h1 align="center">Hi 👋, I'm RafiZaman</h1>
 <h3 align="center">A Frontend Web Developer</h3>
