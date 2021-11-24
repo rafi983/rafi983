@@ -1,5 +1,5 @@
 
-<img width="auto" height="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img width="100%" height="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 <h1 align="center">Hi 👋, I'm RafiZaman</h1>
 <h3 align="center">A Frontend Web Developer</h3>
