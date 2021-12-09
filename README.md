@@ -86,13 +86,13 @@ const rafi = {
 ```
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 964 Contributions in the Year 2021
  > 
-> 📦 648.2 kB Used in GitHub's Storage 
+> 📦 649.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -129,18 +129,16 @@ Sunday       92 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 5 mins              ████████████████████████░   98.86% 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-rafizaman                5 mins              ████████████████████████░   98.86% 
-rz-server                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -156,7 +154,7 @@ SCSS                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/12/2021
+ Last Updated on 09/12/2021
 <!--END_SECTION:waka-->
 
 
