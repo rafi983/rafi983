@@ -86,13 +86,13 @@ const rafi = {
 ```
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 971 Contributions in the Year 2021
  > 
-> 📦 651.4 kB Used in GitHub's Storage 
+> 📦 654.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -157,7 +157,7 @@ SCSS                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/12/2021
+ Last Updated on 15/12/2021
 <!--END_SECTION:waka-->
 
 
