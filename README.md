@@ -86,9 +86,7 @@ const rafi = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-199%20hrs%202%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
 **🐱 My GitHub Data** 
 
@@ -163,7 +161,7 @@ SCSS                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/12/2021
+ Last Updated on 19/12/2021
 <!--END_SECTION:waka-->
 
 
