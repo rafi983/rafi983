@@ -103,16 +103,16 @@ const rafi = {
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               44 repos            ███████████░░░░░░░░░░░░░░   44.44% 
-HTML                     30 repos            ███████░░░░░░░░░░░░░░░░░░   30.3% 
-CSS                      21 repos            █████░░░░░░░░░░░░░░░░░░░░   21.21% 
+JavaScript               42 repos            ██████████░░░░░░░░░░░░░░░   42.42% 
+HTML                     31 repos            ███████░░░░░░░░░░░░░░░░░░   31.31% 
+CSS                      22 repos            █████░░░░░░░░░░░░░░░░░░░░   22.22% 
 SCSS                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.04%
 
 ```
 
 
 
- Last Updated on 10/03/2022 18:42:58 UTC
+ Last Updated on 11/03/2022 18:43:10 UTC
 <!--END_SECTION:waka-->
 
 
