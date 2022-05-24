@@ -174,6 +174,7 @@ SCSS                     4 repos             █░░░░░░░░░░�
 
 ![Github Activity Graph](https://git.heroku.com/heroku-create69.git/graph?username=rafi983)
 
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=FancySlider&theme=omni)](https://github.com/rafi983/FancySlider)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Tic-Tac-Toe&theme=omni)](https://github.com/rafi983/Tic-Tac-Toe)
 
