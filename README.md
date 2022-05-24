@@ -172,7 +172,7 @@ SCSS                     4 repos             █░░░░░░░░░░�
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafi983&theme=vision-friendly-dark" alt="rafi983" /></p>
 
 
-![Github Activity Graph](https://github-readme-activity-graph98.herokuapp.com/graph?username=rafi983&theme=redical&color=E04D01&radius=16&point=F9D923)
+![Github Activity Graph](https://github-readme-activity-graph98.herokuapp.com/graph?username=rafi983&theme=redical&color=F24A72&radius=16&point=F9D923)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=FancySlider&theme=omni)](https://github.com/rafi983/FancySlider)
