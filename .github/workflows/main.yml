@@ -21,7 +21,6 @@ jobs:
           SHOW_COMMIT: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_SHORT_INFO: "True"
-          
-          
+          SHOW_TIMEZONE: "True"
           
           
