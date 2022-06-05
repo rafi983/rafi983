@@ -88,7 +88,7 @@ const rafi = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-194-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-189-blue)
 
 **🐱 My GitHub Data** 
 
@@ -131,21 +131,16 @@ Sunday       75 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               3 hrs 7 mins        ███████████████████████░░   94.56% 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.35% 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.94% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 3 hrs 15 mins       ████████████████████████░   98.61% 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.39%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-comfy-sloth              3 hrs 15 mins       ████████████████████████░   98.61% 
-Forkify                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.39%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 18 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -161,7 +156,7 @@ SCSS                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/06/2022 18:43:54 UTC
+ Last Updated on 05/06/2022 18:42:50 UTC
 <!--END_SECTION:waka-->
 
 
