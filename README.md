@@ -86,7 +86,7 @@ const rafi = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-158-blue)
 
@@ -131,16 +131,17 @@ Sunday       75 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               4 hrs 2 mins        █████████████████████████   99.63% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 4 hrs 3 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+comfy-sloth              4 hrs 3 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 3 mins        █████████████████████████   100.0%
 
 ```
 
@@ -156,7 +157,7 @@ SCSS                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/06/2022 18:44:46 UTC
+ Last Updated on 08/06/2022 22:02:38 UTC
 <!--END_SECTION:waka-->
 
 
