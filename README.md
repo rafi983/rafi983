@@ -131,18 +131,16 @@ Sunday       6 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               35 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 31 mins             ██████████████████████░░░   88.8% 
-IntelliJ                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   11.2%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-rafizaman                31 mins             ██████████████████████░░░   88.8% 
-Carbonizo-client-side    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   11.2%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  35 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -158,7 +156,7 @@ SCSS                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/12/2022 18:40:51 UTC
+ Last Updated on 16/12/2022 18:42:17 UTC
 <!--END_SECTION:waka-->
 
 
