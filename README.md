@@ -98,9 +98,9 @@ const rafi = {
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 108 Public Repositories 
+> 📜 110 Public Repositories 
  > 
-> 🔑 2 Private Repositories  
+> 🔑 0 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -156,7 +156,7 @@ SCSS                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/01/2023 18:42:42 UTC
+ Last Updated on 31/01/2023 18:42:46 UTC
 <!--END_SECTION:waka-->
 
 
