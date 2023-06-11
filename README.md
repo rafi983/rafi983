@@ -88,7 +88,7 @@ const rafi = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -98,9 +98,9 @@ const rafi = {
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 110 Public Repositories 
+> 📜 108 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 2 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -153,7 +153,7 @@ SCSS                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/06/2023 18:39:43 UTC
+ Last Updated on 11/06/2023 18:40:03 UTC
 <!--END_SECTION:waka-->
 
 
