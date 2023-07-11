@@ -163,8 +163,7 @@ SCSS                     5 repos             █░░░░░░░░░░�
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafi983&theme=vision-friendly-dark" alt="rafi983" /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Rafi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafi983theme=merko)](https://github.com/rafi983/github-readme-activity-graph)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=FancySlider&theme=omni)](https://github.com/rafi983/FancySlider)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Tic-Tac-Toe&theme=omni)](https://github.com/rafi983/Tic-Tac-Toe)
@@ -182,4 +181,3 @@ SCSS                     5 repos             █░░░░░░░░░░�
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=searchGithubUsers&theme=omni)](https://github.com/rafi983/searchGithubUsers)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=carbonizo-client-side&theme=omni)](https://github.com/rafi983/carbonizo-client-side)
-
