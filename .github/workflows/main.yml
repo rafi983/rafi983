@@ -24,4 +24,3 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_TIMEZONE: "True"
           
-          
