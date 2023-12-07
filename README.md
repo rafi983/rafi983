@@ -86,6 +86,8 @@ const rafi = {
 ```
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%2035%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -100,6 +102,45 @@ const rafi = {
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                250 commits         ████████░░░░░░░░░░░░░░░░░   30.08 % 
+🌃 Evening                376 commits         ███████████░░░░░░░░░░░░░░   45.25 % 
+🌙 Night                  205 commits         ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Tuesday                  204 commits         ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+Wednesday                184 commits         ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+Thursday                 86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Friday                   115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Saturday                 91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Sunday                   92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -112,7 +153,7 @@ SCSS                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2023 18:41:05 UTC
+ Last Updated on 07/12/2023 18:41:11 UTC
 <!--END_SECTION:waka-->
 
 
