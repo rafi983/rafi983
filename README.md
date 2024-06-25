@@ -94,8 +94,6 @@ const rafi = {
 
 > 📦 688.1 kB Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 111 Public Repositories 
@@ -129,21 +127,16 @@ Sunday                   92 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               16 mins             ██████████████░░░░░░░░░░░   57.39 % 
-Other                    8 mins              ████████░░░░░░░░░░░░░░░░░   31.28 % 
-HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-tic-tac-toe              19 mins             █████████████████░░░░░░░░   68.72 % 
-tic tac toe              8 mins              ████████░░░░░░░░░░░░░░░░░   31.28 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -158,7 +151,7 @@ SCSS                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/06/2024 18:42:18 UTC
+ Last Updated on 25/06/2024 18:42:56 UTC
 <!--END_SECTION:waka-->
 
 
