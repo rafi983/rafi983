@@ -171,6 +171,8 @@ SCSS                     4 repos             █░░░░░░░░░░�
 
 [![Rafi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafi983&theme=merko)](https://github.com/rafi983/github-readme-activity-graph)
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=FancySlider&theme=omni)](https://github.com/rafi983/FancySlider)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Tic-Tac-Toe&theme=omni)](https://github.com/rafi983/Tic-Tac-Toe)
 
