@@ -1,13 +1,10 @@
 
-
-
-
 name: GitHub-Profile-3D-Contribution
 
 on:
-   schedule:
-      - cron: "0 */18 * * *"
-   workflow_dispatch
+  schedule:
+    - cron: "0 */18 * * *"
+  workflow_dispatch
 
 jobs:
   build:
@@ -18,8 +15,8 @@ jobs:
     - uses: yoshi389111/github-profile-3d-contrib@0.4.0
       env:
         GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-        USERNAME: ${{ github.repository_owner }}
-        MAX_REPOS: ${{ github.repository_count }}
+        USERNAME: ${{ github.repository_owner }}  # Use retrieved username
+        MAX_REPOS: ${{ github.repository_count }}  # Use retrieved repository count
     # Existing step(s) for generating the image (replace with ...)
     - git commit -m "3D Contribution image updated for user: ${USERNAME} (Total Repositories: ${MAX_REPOS})"  # Informational commit message
     # (Optional) Conditional logic step
@@ -29,11 +26,4 @@ jobs:
           # Steps to generate and commit the image (only if less than 10 repos)
           # Replace this comment with your actual image generation commands
         fi
-    name: Commit & Push
-        run: |
-          git config user.name rafi983
-          git config user.email rafiirfan211@gmail.com
-          git add -A .
-          git commit -m "Personal 3d Contributions images updated"
-          git push
-
+    - git push  # Existing push step
