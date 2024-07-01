@@ -17,7 +17,7 @@ jobs:
     - uses: actions/checkout@v2
     - uses: yoshi389111/github-profile-3d-contrib@0.4.0
       env:
-        GITHUB_TOKEN: ${{ secrets.CONTRIBUTION_3D }}
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         USERNAME: ${{ github.repository_owner }}
         MAX_REPOS: ${{ github.repository_count }}
     # Existing step(s) for generating the image (replace with ...)
