@@ -1,29 +1,25 @@
-name: GitHub-Profile-3D-Contribution
+name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule:
-    - cron: "0 */18 * * *"
-  workflow_dispatch
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-    - uses: actions/checkout@v2
-    - uses: yoshi389111/github-profile-3d-contrib@0.7.1  # Update version
-      env:
-        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-        USERNAME: ${{ github.repository_owner }}  # Use retrieved username
-        # Commented out for now (uncomment if needed)
-        # MAX_REPOS: ${{ github.repository_count }} 
-    # Existing step(s) for generating the image (replace with ...)
-    - git commit -m "3D Contribution image updated for user: ${USERNAME}"  # Informational commit message
-    - name: Check repository count (optional)  # Update with actual commands
-      run: |
-        if [[ ${MAX_REPOS} -lt 10 ]]; then
-          # Replace this comment with your actual image generation commands
-          # (e.g., generate image, add to git, commit)
-        fi
-    - git push  # Existing push step
+      - uses: actions/checkout@v2
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "generated"
+          git push
 
