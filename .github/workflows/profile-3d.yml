@@ -1,4 +1,3 @@
-
 name: GitHub-Profile-3D-Contribution
 
 on:
@@ -12,18 +11,19 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
     - uses: actions/checkout@v2
-    - uses: yoshi389111/github-profile-3d-contrib@0.4.0
+    - uses: yoshi389111/github-profile-3d-contrib@0.7.1  # Update version
       env:
         GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         USERNAME: ${{ github.repository_owner }}  # Use retrieved username
-        MAX_REPOS: ${{ github.repository_count }}  # Use retrieved repository count
+        # Commented out for now (uncomment if needed)
+        # MAX_REPOS: ${{ github.repository_count }} 
     # Existing step(s) for generating the image (replace with ...)
-    - git commit -m "3D Contribution image updated for user: ${USERNAME} (Total Repositories: ${MAX_REPOS})"  # Informational commit message
-    # (Optional) Conditional logic step
-    - name: Check repository count
+    - git commit -m "3D Contribution image updated for user: ${USERNAME}"  # Informational commit message
+    - name: Check repository count (optional)  # Update with actual commands
       run: |
         if [[ ${MAX_REPOS} -lt 10 ]]; then
-          # Steps to generate and commit the image (only if less than 10 repos)
           # Replace this comment with your actual image generation commands
+          # (e.g., generate image, add to git, commit)
         fi
     - git push  # Existing push step
+
