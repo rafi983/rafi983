@@ -1,7 +1,8 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
+  # 03:00 JST == 18:00 UTC
+  schedule:
     - cron: "0 18 * * *"
   workflow_dispatch:
 
@@ -15,10 +16,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
+      - name: Commit & Push (if changes)
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "generated"
-          git push
+          if [ $(git status --porcelain | wc -l) -ne 0 ]; then
+            git commit -m "Updated GitHub profile 3D contribution"
+            git push
+          else
+            echo "No changes detected. Skipping commit."
+          fi
