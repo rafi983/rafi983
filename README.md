@@ -86,15 +86,13 @@ const rafi = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-290%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-286%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1057-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1069-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 690.1 kB Used in GitHub's Storage 
- > 
-> 🏆 99 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -164,7 +162,7 @@ SCSS                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/07/2024 17:30:02 UTC
+ Last Updated on 14/07/2024 18:52:35 UTC
 <!--END_SECTION:waka-->
 
 
