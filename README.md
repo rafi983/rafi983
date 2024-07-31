@@ -88,11 +88,13 @@ const rafi = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-315%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-104-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-106-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 987.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 154 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -161,7 +163,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2024 18:43:32 UTC
+ Last Updated on 31/07/2024 18:44:18 UTC
 <!--END_SECTION:waka-->
 
 
