@@ -86,9 +86,9 @@ const rafi = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-315%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-315%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
 **🐱 My GitHub Data** 
 
@@ -127,16 +127,20 @@ Sunday                   100 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     15 mins             ██████████████████████░░░   86.97 % 
+Git Config               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+dashboard                15 mins             ██████████████████████░░░   86.93 % 
+elena joy                2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  17 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -152,7 +156,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2024 18:43:42 UTC
+ Last Updated on 12/08/2024 18:45:22 UTC
 <!--END_SECTION:waka-->
 
 
