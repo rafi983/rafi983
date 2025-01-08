@@ -129,16 +129,17 @@ Sunday                   95 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               0 secs              █████████████████████░░░░   84.93 % 
+HTML                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+todayilearned            0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -154,7 +155,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/01/2025 18:47:39 UTC
+ Last Updated on 08/01/2025 18:47:47 UTC
 <!--END_SECTION:waka-->
 
 
