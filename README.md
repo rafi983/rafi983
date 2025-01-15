@@ -94,8 +94,6 @@ const rafi = {
 
 > 📦 884.1 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 158 Public Repositories 
@@ -129,17 +127,16 @@ Sunday                   95 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               0 secs              █████████████████████░░░░   84.93 % 
-HTML                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-todayilearned            0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -155,7 +152,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/01/2025 18:48:51 UTC
+ Last Updated on 15/01/2025 18:45:24 UTC
 <!--END_SECTION:waka-->
 
 
