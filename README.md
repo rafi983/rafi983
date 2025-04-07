@@ -129,16 +129,16 @@ Sunday                   95 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-react-color-app          6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -154,7 +154,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/04/2025 18:46:47 UTC
+ Last Updated on 07/04/2025 18:49:20 UTC
 <!--END_SECTION:waka-->
 
 
