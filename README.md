@@ -6,7 +6,7 @@
 
 ### Glad to see you here! :octocat:
 
-> I'm a **Front End Web Developer**. I am a tech enthusiast.I studied B.sc Engineering in RUET.But unfortunately I couldn't get going due to my illness.After this i had to leave my university and then i devoted myself to learn coding.Programming is a vast knowledge of skills and logics.For that u need to work harder and to achive that skill i am trying my heart and soul to be a better programmer.I have huge interests in software development.Now i am working on web development field and continuously learning as well.
+> I'm a **Front End Web Developer**. I am a tech enthusiast.I studied B.sc Engineering in RUET.But unfortunately I couldn't get going due to my illness.After this i had to leave my university and then i devoted myself to learn coding.Programming is a vast knowledge of skills and logics.For that u need to work hard with immense passion. I have huge interests in software engineering. Now i am working on web development sector and continuously learning different aspects of this field as well.
 ---
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafi983" alt="rafi983" /></a> </p>
@@ -74,7 +74,7 @@ const rafi = {
   askMeAbout: ["web dev", "tech"],
   technologies: {
         web: {
-         frontEnd: ["ReactJS", "Redux", "Bootstrap 5", "Tailwind CSS"],
+         frontEnd: ["ReactJS", "NextJS", "Redux", "Bootstrap 5", "Tailwind CSS"],
          backEnd: ["NodeJS", "ExpressJS", "mongoose"],
       },
         databases: ["mongoDB"],
@@ -164,8 +164,6 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafi983&theme=vision-friendly-dark" alt="rafi983" /></p>
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rashidul738&theme=dark)](https://git.io/streak-stats)
 
 [![Rafi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafi983&theme=merko)](https://github.com/rafi983/github-readme-activity-graph)
 
