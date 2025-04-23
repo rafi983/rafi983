@@ -164,6 +164,9 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafi983&theme=vision-friendly-dark" alt="rafi983" /></p>
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rashidul738&theme=dark)](https://git.io/streak-stats)
+
 [![Rafi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafi983&theme=merko)](https://github.com/rafi983/github-readme-activity-graph)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
