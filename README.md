@@ -86,15 +86,13 @@ const rafi = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 885.3 kB Used in GitHub's Storage 
- > 
-> 🏆 9 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -129,16 +127,25 @@ Sunday                   98 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 26 mins        ████████████████████░░░░░   81.21 % 
+JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+TypeScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 47 mins             ███████████░░░░░░░░░░░░░░   44.69 % 
+VS Code                  29 mins             ███████░░░░░░░░░░░░░░░░░░   27.16 % 
+PhpStorm                 17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+IntelliJ IDEA            12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+riz-2                    1 hr 33 mins        ██████████████████████░░░   87.22 % 
+browser-extensions-manage8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+rock-paper-scissors      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -154,7 +161,7 @@ TypeScript               4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/05/2025 18:10:20 UTC
+ Last Updated on 04/05/2025 18:49:08 UTC
 <!--END_SECTION:waka-->
 
 
