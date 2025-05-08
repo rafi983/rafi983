@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rafi983&theme=vision-friendly-dark" alt="rafi983" />
+</p>
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
 <h1 align="center">Hi 👋, I'm RafiZaman</h1>
