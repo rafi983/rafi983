@@ -1,7 +1,22 @@
 
-### 🪪 DevCard
+### 💻 Terminal Snapshot
 
-<a href="https://app.daily.dev/rafi983"><img src="https://api.daily.dev/devcards/rafi983.png" width="400" alt="Rafi Zaman's Dev Card"/></a>
+```bash
+$ whoami
+> Rafi Zaman
+
+$ skills --list
+> React, Tailwind CSS, Node.js, MongoDB
+
+$ current_project
+> Building frontend projects with MERN stack
+
+$ fun_fact
+> Loves cricket & PC gaming
+
+$ motto
+> Keep coding, keep improving!
+
 
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
