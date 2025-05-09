@@ -165,8 +165,6 @@ Last Updated on 08/05/2025 18:57:44 UTC
 
 ![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafi983&show_icons=true&theme=vision-friendly-dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafi983&theme=vision-friendly-dark" alt="rafi983" /></p>
-
 [![Rafi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafi983&theme=merko)](https://github.com/rafi983/github-readme-activity-graph)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
