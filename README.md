@@ -1,7 +1,3 @@
-### 🧠 Daily Dev Flow + Philosophy
-
-<img src="https://raw.githubusercontent.com/rafi983/rafi983/main/routine-philosophy.png" alt="Routine and Dev Philosophy" width="700" height="auto" style="display: block; margin: 0 auto;" />
-
 
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
@@ -63,7 +59,7 @@
 
 ### 🧠 Daily Dev Flow + Philosophy
 
-<img src="https://raw.githubusercontent.com/rafi983/rafi983/main/routine-philosophy.png" width="600" alt="Daily Coding Routine and Dev Philosophy" />
+<img src="https://raw.githubusercontent.com/rafi983/rafi983/main/routine-philosophy.png" width="900" alt="Daily Coding Routine and Dev Philosophy" />
 
 ### :boy: A little more about me:
 
