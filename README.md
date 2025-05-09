@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafi983&show_icons=true&include_streak=true&theme=vision-friendly-dark" alt="rafi983’s GitHub stats with streak" />
+</p>
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/rafi983/rafi983/main/streak.svg" alt="rafi983 streak stats" />
 </p>
