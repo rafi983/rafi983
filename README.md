@@ -1,7 +1,4 @@
 
-[![GitHub Streak](https://github-readme-streak-stats-vert-eight.vercel.app?user=rafi983)](https://git.io/streak-stats)
-
-
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
 <h1 align="center">Hi 👋, I'm RafiZaman</h1>
@@ -167,6 +164,8 @@ Last Updated on 08/05/2025 18:57:44 UTC
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi983&card_width=500&theme=vision-friendly-dark)
 
 ![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafi983&show_icons=true&theme=vision-friendly-dark)
+
+[![GitHub Streak](https://github-readme-streak-stats-vert-eight.vercel.app?user=rafi983&theme=github-green-purple&border_radius=12)](https://git.io/streak-stats)
 
 [![Rafi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafi983&theme=merko)](https://github.com/rafi983/github-readme-activity-graph)
 
