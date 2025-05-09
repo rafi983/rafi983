@@ -1,8 +1,7 @@
 // generate-streak.js
 const fs = require("fs");
 const path = require("path");
-
-// Require directly from the local copy
+// require directly from the vendored folder
 const { renderStreakStats } = require("./streak-src/src/streak-card");
 
 async function main() {
