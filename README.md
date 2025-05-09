@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rafi983/rafi983/main/streak.svg" alt="rafi983 streak stats" />
+</p>
 
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
@@ -7,10 +10,10 @@
 ### Glad to see you here! :octocat:
 
 > I'm a **Front End Web Developer**. I am a tech enthusiast.I studied B.sc Engineering in RUET.But unfortunately I couldn't get going due to my illness.After this i had to leave my university and then i devoted myself to learn coding.Programming is a vast knowledge of skills and logics.For that u need to work hard with immense passion. I have huge interests in software engineering. Now i am working on web development sector and continuously learning different aspects of this field as well.
+
 ---
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafi983" alt="rafi983" /></a> </p>
-
 
 <img align="right" height="250" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 
@@ -24,12 +27,9 @@
 
 - ⚡ Fun fact **I love to play cricket and play games in Pc**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rafi983)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rafi983)  
-
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rafi983) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rafi983)
 
 ---
-
 
 ### 🛠 Languages and Tools:
 
@@ -58,10 +58,7 @@
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
-
 ---
-
-
 
 ### :boy: A little more about me:
 
@@ -73,108 +70,105 @@ const rafi = {
   code: ["Javascript", "HTML", "CSS"],
   askMeAbout: ["web dev", "tech"],
   technologies: {
-        web: {
-         frontEnd: ["ReactJS", "NextJS", "Redux", "Bootstrap 5", "Tailwind CSS"],
-         backEnd: ["NodeJS", "ExpressJS", "mongoose"],
-      },
-        databases: ["mongoDB"],
-        misc: ["Firebase"]
+    web: {
+      frontEnd: ["ReactJS", "NextJS", "Redux", "Bootstrap 5", "Tailwind CSS"],
+      backEnd: ["NodeJS", "ExpressJS", "mongoose"],
     },
-    currentFocus: "Front-End Web Development",
-    nextTarget: "Competitive programming"
-}
+    databases: ["mongoDB"],
+    misc: ["Firebase"],
+  },
+  currentFocus: "Front-End Web Development",
+  nextTarget: "Competitive programming",
+};
 ```
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 886.4 kB Used in GitHub's Storage 
- > 
+> 📦 886.4 kB Used in GitHub's Storage
+>
 > 🏆 33 Contributions in the Year 2025
- > 
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 161 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
-**I'm a Night 🦉** 
+>
+> 📜 161 Public Repositories
+>
+> 🔑 1 Private Repositories
+>
+> **I'm a Night 🦉**
 
 ```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                300 commits         ████████░░░░░░░░░░░░░░░░░   31.55 % 
-🌃 Evening                446 commits         ████████████░░░░░░░░░░░░░   46.90 % 
-🌙 Night                  205 commits         █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+🌆 Daytime                300 commits         ████████░░░░░░░░░░░░░░░░░   31.55 %
+🌃 Evening                446 commits         ████████████░░░░░░░░░░░░░   46.90 %
+🌙 Night                  205 commits         █████░░░░░░░░░░░░░░░░░░░░   21.56 %
 ```
-📅 **I'm Most Productive on Tuesday** 
+
+📅 **I'm Most Productive on Tuesday**
 
 ```text
-Monday                   74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-Tuesday                  241 commits         ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
-Wednesday                208 commits         █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
-Thursday                 106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Friday                   124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Saturday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Sunday                   98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Monday                   74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
+Tuesday                  241 commits         ██████░░░░░░░░░░░░░░░░░░░   25.34 %
+Wednesday                208 commits         █████░░░░░░░░░░░░░░░░░░░░   21.87 %
+Thursday                 106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 %
+Friday                   124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 %
+Saturday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 %
+Sunday                   98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.30 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Dhaka
 
-💬 Programming Languages: 
-JavaScript               7 hrs 48 mins       ███████████████████░░░░░░   77.30 % 
-HTML                     1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-JSON                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-TypeScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+💬 Programming Languages:
+JavaScript               7 hrs 48 mins       ███████████████████░░░░░░   77.30 %
+HTML                     1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
+JSON                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+TypeScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 
-🔥 Editors: 
-PhpStorm                 6 hrs 59 mins       █████████████████░░░░░░░░   69.30 % 
-VS Code                  1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-WebStorm                 1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-IntelliJ IDEA            12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+🔥 Editors:
+PhpStorm                 6 hrs 59 mins       █████████████████░░░░░░░░   69.30 %
+VS Code                  1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.57 %
+WebStorm                 1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 %
+IntelliJ IDEA            12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
 
-🐱‍💻 Projects: 
-digital-agency           6 hrs 48 mins       █████████████████░░░░░░░░   67.49 % 
-riz-2                    1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-rnext                    1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-fm_tictactoe             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-browser-extensions-manage8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+🐱‍💻 Projects:
+digital-agency           6 hrs 48 mins       █████████████████░░░░░░░░   67.49 %
+riz-2                    1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
+rnext                    1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
+fm_tictactoe             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+browser-extensions-manage8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 
-💻 Operating System: 
-Windows                  10 hrs 5 mins       █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  10 hrs 5 mins       █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               62 repos            ██████████░░░░░░░░░░░░░░░   38.27 % 
-HTML                     54 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-CSS                      37 repos            ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-SCSS                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+JavaScript               62 repos            ██████████░░░░░░░░░░░░░░░   38.27 %
+HTML                     54 repos            ████████░░░░░░░░░░░░░░░░░   33.33 %
+CSS                      37 repos            ██████░░░░░░░░░░░░░░░░░░░   22.84 %
+SCSS                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
 ```
 
+Last Updated on 08/05/2025 18:57:44 UTC
 
-
-
- Last Updated on 08/05/2025 18:57:44 UTC
 <!--END_SECTION:waka-->
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi983&card_width=500&theme=vision-friendly-dark)
 
 ![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafi983&show_icons=true&theme=vision-friendly-dark)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafi983&theme=vision-friendly-dark" alt="rafi983" /></p>
-
 
 [![Rafi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafi983&theme=merko)](https://github.com/rafi983/github-readme-activity-graph)
 
@@ -186,13 +180,11 @@ TypeScript               4 repos             █░░░░░░░░░░�
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Hungry-Monster&theme=omni)](https://github.com/rafi983/Hungry-Monster)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=WeatherApp-Js&theme=omni)](https://github.com/rafi983/WeatherApp-Js)
 
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Natours&theme=omni)](https://github.com/rafi983/Natours)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Glassmorphism-Calculator&theme=omni)](https://github.com/rafi983/Glassmorphism-Calculator)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Backroads-site&theme=omni)](https://github.com/rafi983/Backroads-site)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Tea-station&theme=omni)](https://github.com/rafi983/Tea-station)
-
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=searchGithubUsers&theme=omni)](https://github.com/rafi983/searchGithubUsers)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=carbonizo-client-side&theme=omni)](https://github.com/rafi983/carbonizo-client-side)
