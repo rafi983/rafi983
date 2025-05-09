@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafi983&show_icons=true&include_streak=true&theme=vision-friendly-dark" alt="rafi983’s GitHub stats with streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/api?username=rafi983&show_icons=true&include_streak=true&theme=vision-friendly-dark" alt="rafi983’s GitHub stats with streak" />
 </p>
 
 
