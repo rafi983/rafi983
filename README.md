@@ -57,9 +57,23 @@
 
 ---
 
-### 🧠 Daily Dev Flow + Philosophy
+Perfect choice! Here’s the Markdown code to embed your image in your GitHub README.md:
 
-<img src="https://raw.githubusercontent.com/rafi983/rafi983/main/routine-philosophy.png" width="720" alt="Daily Coding Routine and Dev Philosophy" />
+### 🧠 Daily Dev Routine + Philosophy
+
+<img src="https://raw.githubusercontent.com/rafi983/rafi983/main/dev-terminal-routine.png" width="720" alt="Terminal-style developer routine and philosophy" />
+
+---
+
+✅ What to do:
+
+Make sure the image is uploaded to your repo under:
+rafi983/assets/dev-terminal-routine.png
+
+
+Let me know if you'd like to center it or add a subtle border too.
+
+
 
 ### :boy: A little more about me:
 
