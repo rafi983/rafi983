@@ -170,13 +170,17 @@ TypeScript               4 repos             █░░░░░░░░░░�
  Last Updated on 09/05/2025 18:50:53 UTC
 <!--END_SECTION:waka-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi983&card_width=500&theme=vision-friendly-dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafi983&theme=vision-friendly-dark&card_width=500" width="100%" style="max-width: 500px;" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafi983&show_icons=true&theme=vision-friendly-dark" width="100%" style="max-width: 500px;" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats-vert-eight.vercel.app?user=rafi983&theme=github-green-purple&border_radius=12" width="100%" style="max-width: 500px;" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafi983&theme=merko" width="100%" style="max-width: 500px;" alt="Contribution Graph" />
+</div>
 
-![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafi983&show_icons=true&theme=vision-friendly-dark)
 
-[![GitHub Streak](https://github-readme-streak-stats-vert-eight.vercel.app?user=rafi983&theme=github-green-purple&border_radius=12)](https://git.io/streak-stats)
-
-[![Rafi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafi983&theme=merko)](https://github.com/rafi983/github-readme-activity-graph)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
