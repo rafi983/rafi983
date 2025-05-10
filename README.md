@@ -59,7 +59,7 @@
 
 ### 🧠 Daily Dev Routine + Philosophy
 
-<img src="https://raw.githubusercontent.com/rafi983/rafi983/main/dev-philosophy.png" width="520" alt="Terminal-style developer routine and philosophy" />
+<img align="center" src="https://raw.githubusercontent.com/rafi983/rafi983/main/dev-philosophy.png" width="550" alt="Terminal-style developer routine and philosophy" />
 
 ---
 
