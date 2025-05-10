@@ -61,7 +61,7 @@ Perfect choice! Here’s the Markdown code to embed your image in your GitHub RE
 
 ### 🧠 Daily Dev Routine + Philosophy
 
-<img src="https://raw.githubusercontent.com/rafi983/rafi983/main/dev-terminal-routine.png" width="720" alt="Terminal-style developer routine and philosophy" />
+<img src="https://raw.githubusercontent.com/rafi983/rafi983/main/dev-philosophy.png" width="720" alt="Terminal-style developer routine and philosophy" />
 
 ---
 
