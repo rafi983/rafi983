@@ -61,7 +61,7 @@
 
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/rafi983/rafi983/main/dev-philosophy.png" width="600" height="300" alt="Terminal-style developer routine and philosophy" />  
+<img src="https://raw.githubusercontent.com/rafi983/rafi983/main/dev-philosophy.png" width="600" height="500" alt="Terminal-style developer routine and philosophy" />  
 </div>
 ---
 
