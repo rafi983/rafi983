@@ -57,8 +57,6 @@
 
 ---
 
-Perfect choice! Here’s the Markdown code to embed your image in your GitHub README.md:
-
 ### 🧠 Daily Dev Routine + Philosophy
 
 <img src="https://raw.githubusercontent.com/rafi983/rafi983/main/dev-philosophy.png" width="720" alt="Terminal-style developer routine and philosophy" />
