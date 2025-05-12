@@ -59,11 +59,9 @@
 
 ### 🧠 Daily Dev Routine + Philosophy
 
-
-<div align="center">
-![Dev Philosophy](https://raw.githubusercontent.com/rafi983/rafi983/main/dev-philosophy.png)
-</div>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rafi983/rafi983/main/dev-philosophy.png" alt="Dev Philosophy" />
+</p>
 
 ### :boy: A little more about me:
 
