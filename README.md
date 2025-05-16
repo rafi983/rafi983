@@ -185,12 +185,12 @@ SCSS                     5 repos             █░░░░░░░░░░�
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Tic-Tac-Toe&theme=onedark)](https://github.com/rafi983/Tic-Tac-Toe)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Hungry-Monster&theme=cobalt)](https://github.com/rafi983/Hungry-Monster)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=WeatherApp-Js&theme=omni)](https://github.com/rafi983/WeatherApp-Js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=WeatherApp-Js&theme=vue-dark)](https://github.com/rafi983/WeatherApp-Js)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Natours&theme=omni)](https://github.com/rafi983/Natours)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Glassmorphism-Calculator&theme=omni)](https://github.com/rafi983/Glassmorphism-Calculator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Natours&theme=shades-of-purple)](https://github.com/rafi983/Natours)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Glassmorphism-Calculator&theme=nightowl)](https://github.com/rafi983/Glassmorphism-Calculator)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Backroads-site&theme=omni)](https://github.com/rafi983/Backroads-site)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Backroads-site&theme=dracula)](https://github.com/rafi983/Backroads-site)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Tea-station&theme=omni)](https://github.com/rafi983/Tea-station)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=searchGithubUsers&theme=omni)](https://github.com/rafi983/searchGithubUsers)
