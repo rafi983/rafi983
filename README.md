@@ -182,9 +182,9 @@ SCSS                     5 repos             █░░░░░░░░░░�
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=FancySlider&theme=tokyonight)](https://github.com/rafi983/FancySlider)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Tic-Tac-Toe&theme=omni)](https://github.com/rafi983/Tic-Tac-Toe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Tic-Tac-Toe&theme=onedark)](https://github.com/rafi983/Tic-Tac-Toe)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Hungry-Monster&theme=omni)](https://github.com/rafi983/Hungry-Monster)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Hungry-Monster&theme=cobalt)](https://github.com/rafi983/Hungry-Monster)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=WeatherApp-Js&theme=omni)](https://github.com/rafi983/WeatherApp-Js)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Natours&theme=omni)](https://github.com/rafi983/Natours)
