@@ -181,17 +181,17 @@ SCSS                     5 repos             █░░░░░░░░░░�
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=FancySlider&theme=tokyonight)](https://github.com/rafi983/FancySlider)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Tic-Tac-Toe&theme=onedark)](https://github.com/rafi983/Tic-Tac-Toe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=FancySlider&theme=nightowl)](https://github.com/rafi983/FancySlider)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Tic-Tac-Toe&theme=nightowl)](https://github.com/rafi983/Tic-Tac-Toe)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Hungry-Monster&theme=cobalt)](https://github.com/rafi983/Hungry-Monster)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=WeatherApp-Js&theme=vue-dark)](https://github.com/rafi983/WeatherApp-Js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Hungry-Monster&theme=nightowl)](https://github.com/rafi983/Hungry-Monster)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=WeatherApp-Js&theme=nightowl)](https://github.com/rafi983/WeatherApp-Js)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Natours&theme=shades-of-purple)](https://github.com/rafi983/Natours)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Natours&theme=nightowl)](https://github.com/rafi983/Natours)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Glassmorphism-Calculator&theme=nightowl)](https://github.com/rafi983/Glassmorphism-Calculator)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Backroads-site&theme=dracula)](https://github.com/rafi983/Backroads-site)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Tea-station&theme=omni)](https://github.com/rafi983/Tea-station)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Backroads-site&theme=nightowl)](https://github.com/rafi983/Backroads-site)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Tea-station&theme=nightowl)](https://github.com/rafi983/Tea-station)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=searchGithubUsers&theme=omni)](https://github.com/rafi983/searchGithubUsers)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=carbonizo-client-side&theme=omni)](https://github.com/rafi983/carbonizo-client-side)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=searchGithubUsers&theme=nightowl)](https://github.com/rafi983/searchGithubUsers)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=carbonizo-client-side&theme=nightowl)](https://github.com/rafi983/carbonizo-client-side)
