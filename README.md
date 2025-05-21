@@ -14,6 +14,8 @@
 
 <img align="right" height="250" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 
+<br />
+
 - 🔭 I’m currently working on **Some frontend different projects**
 
 - 🌱 I’m currently learning **Mern Stack**
