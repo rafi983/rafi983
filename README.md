@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/rafi983">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafi983&theme=radical" alt="rafi983's GitHub Contribution"/>
-  </a>
-</p>
-
 
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
@@ -184,6 +178,11 @@ SCSS                     5 repos             █░░░░░░░░░░�
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafi983&theme=merko" width="500" style="max-width: 500px;" alt="Contribution Graph" />
 </div>
 
+<p align="center">
+  <a href="https://github.com/rafi983">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafi983&theme=merko" alt="rafi983's GitHub Contribution"/>
+  </a>
+</p>
 
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
