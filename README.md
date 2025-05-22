@@ -87,6 +87,7 @@ const rafi = {
 ```
 
 <!--START_SECTION:waka-->
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-360-blue)
 
 **🐱 My GitHub Data** 
@@ -115,6 +116,7 @@ SCSS                     5 repos             █░░░░░░░░░░�
 
 
  Last Updated on 21/05/2025 18:53:21 UTC
+ 
 <!--END_SECTION:waka-->
 
 <div align="center">
