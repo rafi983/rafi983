@@ -1,3 +1,7 @@
+<a href="https://github.com/rafi983">
+  <img src="https://ghchart.rshah.org/2196f3/rafi983" alt="rafi983's Github chart" />
+</a>
+
 
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
