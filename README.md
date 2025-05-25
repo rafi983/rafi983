@@ -33,6 +33,16 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,c,cpp,bootstrap,nodejs,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=react,redux,vue,threejs,vite,github,gitlab,phpstorm,webstorm" /><br>
+    <img src="https://skillicons.dev/icons?i=idea,pycharm,npm,yarn,netlify,vercel,windows,webpack,supabase,mongodb,stackoverflow" />
+  </a>
+</p>
+
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,c,cpp,bootstrap,nodejs,nextjs,react,redux,vue,threejs,vite,github,gitlab,phpstorm,webstorm,idea,pycharm,npm,yarn,netlify,vercel,windows,webpack,supabase,mongodb,stackoverflow" />
   </a>
 </p>
