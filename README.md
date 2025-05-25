@@ -58,6 +58,15 @@
 
 ---
 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,c,cpp,bootstrap,js,nodejs,nextjs,react" />
+  </a>
+</p>
+
+
+
 ### 🧠 Daily Dev Routine + Philosophy
 
 <p align="center">
