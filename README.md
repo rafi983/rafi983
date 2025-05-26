@@ -14,7 +14,6 @@
 
 <img align="right" height="250" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 
----
 
 - 🔭 I’m currently working on **Some frontend different projects**
 
@@ -25,8 +24,6 @@
 - 📫 How to reach me **rafiirfan211@gmail.com**
 
 - ⚡ Fun fact **I love to play cricket and play games in Pc**
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rafi983) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rafi983)
 
 ---
 
