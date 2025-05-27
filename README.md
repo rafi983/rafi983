@@ -17,61 +17,29 @@
   </a>
 </p>
 
+---
 
-<div style="display: flex; align-items: flex-start; flex-wrap: wrap; justify-content: space-between;">
-
-  <div style="flex: 1; min-width: 300px; margin-right: 20px;">
-    <img src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif" width="100%" />
-  </div>
-
-  <div style="flex: 2; min-width: 300px;">
-    <h3>About Me</h3>
-    <ul>
-      <li>🔭 I’m currently working on <strong>some frontend different projects</strong></li>
-      <li>🌱 I’m currently learning <strong>Mern Stack</strong></li>
-      <li>👯 I’m looking to <strong>contribute more on GitHub in the upcoming days 🤣</strong></li>
-      <li>📫 How to reach me: <strong>rafiirfan211@gmail.com</strong></li>
-    </ul>
-    <hr>
-    <h3>⚡ Fun fact</h3>
-    <ul>
-      <li>I love to play cricket and play games on PC</li>
-    </ul>
-  </div>
-
-</div>
-
-
-
-<div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap; align-items: center; justify-content: center; gap: 2rem;">
-
-  <div style="flex: 1; min-width: 300px; text-align: left;">
 
   ### About Me
-
-  - 🔭 I’m currently working on **some frontend different projects**
+  <div>
+<div align="left">
+   - 🔭 I’m currently working on **some frontend different projects**
   - 🌱 I’m currently learning **Mern Stack**
   - 👯 I’m looking to **contribute more on GitHub in the upcoming days 🤣**
   - 📫 How to reach me: **rafiirfan211@gmail.com**
   - ⚡ Fun fact: **I love to play cricket and play games on PC**
-
-  </div>
-
-  <div style="flex: 1; min-width: 300px;">
-    <img src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif" width="100%" />
-  </div>
-
 </div>
-
-
-
-
-
----
 
 <div align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif" width="80%" />
 </div>
+
+</div>
+
+
+---
+
+
 
 ---
 
