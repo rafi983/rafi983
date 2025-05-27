@@ -156,7 +156,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafi98&theme=vision-friendly-dark&card_width=500" width="500" style="max-width: 500px;" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafi983&theme=vision-friendly-dark&card_width=500" width="500" style="max-width: 500px;" alt="Top Languages" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=rafi983&show_icons=true&theme=vision-friendly-dark" width="500" style="max-width: 500px;" alt="GitHub Stats" />
   <br />
