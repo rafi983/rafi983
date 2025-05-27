@@ -10,6 +10,23 @@
 
 ---
 
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif" width="80%" />
+</div>
+
+---
+
+### About Me
+
+- 🔭 I’m currently working on **some frontend different projects**
+- 🌱 I’m currently learning **Mern Stack**
+- 👯 I’m looking to **contribute more on GitHub in the upcoming days 🤣**
+- 📫 How to reach me: **rafiirfan211@gmail.com**
+- ⚡ Fun fact: **I love to play cricket and play games on PC**
+
+
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafi983&theme=darkhub" alt="rafi983" /></a> </p>
 
 
