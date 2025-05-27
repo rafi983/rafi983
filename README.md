@@ -31,9 +31,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,c,cpp,bootstrap,nodejs,nextjs&size=70" /><br>
-    <img src="https://skillicons.dev/icons?i=react,redux,vue,threejs,vite,github,gitlab,phpstorm,webstorm&size=70" /><br>
-    <img src="https://skillicons.dev/icons?i=idea,pycharm,npm,yarn,netlify,vercel,windows,webpack,supabase,mongodb,stackoverflow&size=70" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,c,cpp,bootstrap,nodejs,nextjs&perline=5&theme=light&size=70" /><br>
+    <img src="https://skillicons.dev/icons?i=react,redux,vue,threejs,vite,github,gitlab,phpstorm,webstorm&perline=7&theme=light&size=70" /><br>
+    <img src="https://skillicons.dev/icons?i=idea,pycharm,npm,yarn,netlify,vercel,windows,webpack,supabase,mongodb,stackoverflow&perline=7&theme=light&size=70" />
   </a>
 </p>
 
