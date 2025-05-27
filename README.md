@@ -19,30 +19,6 @@
 
 ---
 
-
-  ### About Me
-  <div>
-<div align="left">
-   - 🔭 I’m currently working on **some frontend different projects**
-  - 🌱 I’m currently learning **Mern Stack**
-  - 👯 I’m looking to **contribute more on GitHub in the upcoming days 🤣**
-  - 📫 How to reach me: **rafiirfan211@gmail.com**
-  - ⚡ Fun fact: **I love to play cricket and play games on PC**
-</div>
-
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif" width="80%" />
-</div>
-
-</div>
-
-
----
-
-
-
----
-
 ### About Me
 
 - 🔭 I’m currently working on **some frontend different projects**
