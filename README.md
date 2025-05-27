@@ -8,6 +8,15 @@
 
 > I'm a **Front End Web Developer**. I am a tech enthusiast.I studied B.sc Engineering in RUET.But unfortunately I couldn't get going due to my illness.After this i had to leave my university and then i devoted myself to learn coding.Programming is a vast knowledge of skills and logics.For that u need to work hard with immense passion. I have huge interests in software engineering. Now i am working on web development sector and continuously learning different aspects of this field as well.
 
+
+---
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rafi983&theme=darkhub" alt="rafi983's GitHub Profile Trophy" />
+  </a>
+</p>
+
 ---
 
 <div align="center">
@@ -23,31 +32,6 @@
 - 👯 I’m looking to **contribute more on GitHub in the upcoming days 🤣**
 - 📫 How to reach me: **rafiirfan211@gmail.com**
 - ⚡ Fun fact: **I love to play cricket and play games on PC**
-
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafi983&theme=darkhub" alt="rafi983" /></a> </p>
-
-
-<table>
-  <tr>
-    <td valign="top">
-      <br> - 🔭 I’m currently working on **Some frontend different projects**
-      <br>
-      - 🌱 I’m currently learning **Mern Stack**
-      <br>
-      - 👯 I’m looking to **contribute more in github in the upcoming days 🤣**
-      <br>
-      - 📫 How to reach me **rafiirfan211@gmail.com**
-      <br>
-      - ⚡ Fun fact **I love to play cricket and play games in Pc**
-    </td>
-    <td valign="top" align="right">
-      <img height="250" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
-    </td>
-  </tr>
-</table>
 
 ---
 
