@@ -17,6 +17,32 @@
   </a>
 </p>
 
+
+
+<div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap; align-items: center; justify-content: center; gap: 2rem;">
+
+  <div style="flex: 1; min-width: 300px; text-align: left;">
+
+  ### About Me
+
+  - 🔭 I’m currently working on **some frontend different projects**
+  - 🌱 I’m currently learning **Mern Stack**
+  - 👯 I’m looking to **contribute more on GitHub in the upcoming days 🤣**
+  - 📫 How to reach me: **rafiirfan211@gmail.com**
+  - ⚡ Fun fact: **I love to play cricket and play games on PC**
+
+  </div>
+
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif" width="100%" />
+  </div>
+
+</div>
+
+
+
+
+
 ---
 
 <div align="center">
