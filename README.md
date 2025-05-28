@@ -8,16 +8,48 @@
 
 > I'm a **Front End Web Developer**. I am a tech enthusiast.I studied B.sc Engineering in RUET.But unfortunately I couldn't get going due to my illness.After this i had to leave my university and then i devoted myself to learn coding.Programming is a vast knowledge of skills and logics.For that u need to work hard with immense passion. I have huge interests in software engineering. Now i am working on web development sector and continuously learning different aspects of this field as well.
 
+---
+
+
+Navigation Menu
+
+Code
+Issues
+Pull requests
+Commit 2d08bbe
+rafi983
+rafi983
+authored
+last week
+Verified
+Update README.md
+main
+1 parent 
+34d76f6
+ commit 
+2d08bbe
+1 file changed
+Search within code
+ 
+‎README.md
++2
+Lines changed: 2 additions & 0 deletions
+
+
+Original file line number	Diff line number	Diff line change
+@@ -3,90 +3,91 @@
+
+<h1 align="center">Hi 👋, I'm RafiZaman</h1>
+<h3 align="center">A Frontend Web Developer</h3>
+
+### Glad to see you here! :octocat:
+
+> I'm a **Front End Web Developer**. I am a tech enthusiast.I studied B.sc Engineering in RUET.But unfortunately I couldn't get going due to my illness.After this i had to leave my university and then i devoted myself to learn coding.Programming is a vast knowledge of skills and logics.For that u need to work hard with immense passion. I have huge interests in software engineering. Now i am working on web development sector and continuously learning different aspects of this field as well.
+
 
 ---
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rafi983&theme=darkhub" alt="rafi983's GitHub Profile Trophy" />
-  </a>
-</p>
-
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafi983&theme=darkhub" alt="rafi983" /></a> </p>
 
 <img align="right" height="250" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 
@@ -30,7 +62,7 @@
 
 - 📫 How to reach me **rafiirfan211@gmail.com**
 
-- ⚡ Fun fact **I love to play cricket and play games in Pc*
+- ⚡ Fun fact **I love to play cricket and play games in Pc**
 
 
 ---
