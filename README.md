@@ -1,17 +1,3 @@
-<img align="right" height="250" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
-
-
-- 🔭 I’m currently working on **Some frontend different projects**
-
-- 🌱 I’m currently learning **Mern Stack**
-
-- 👯 I’m looking to **contribute more in github in the upcoming days 🤣**
-
-- 📫 How to reach me **rafiirfan211@gmail.com**
-
-- ⚡ Fun fact **I love to play cricket and play games in Pc*
-
-
 
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
@@ -33,17 +19,19 @@
 
 ---
 
+<img align="right" height="250" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif" width="100%" align="left"/>
+- 🔭 I’m currently working on **Some frontend different projects**
 
-### About Me
-
-- 🔭 I’m currently working on **some frontend different projects**
 - 🌱 I’m currently learning **Mern Stack**
-- 👯 I’m looking to **contribute more on GitHub in the upcoming days 🤣**
-- 📫 How to reach me: **rafiirfan211@gmail.com**
-- ⚡ Fun fact: **I love to play cricket and play games on PC**
+
+- 👯 I’m looking to **contribute more in github in the upcoming days 🤣**
+
+- 📫 How to reach me **rafiirfan211@gmail.com**
+
+- ⚡ Fun fact **I love to play cricket and play games in Pc*
+
 
 ---
 
