@@ -19,6 +19,10 @@
 
 ---
 
+
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif" width="100%" align="left"/>
+
 ### About Me
 
 - 🔭 I’m currently working on **some frontend different projects**
