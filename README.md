@@ -30,7 +30,6 @@
 - ⚡ Fun fact **I love to play cricket and play games in Pc**
 
 <br>
-<br>
 
 ---
 
