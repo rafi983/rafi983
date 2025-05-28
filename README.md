@@ -10,35 +10,6 @@
 
 ---
 
-
-Navigation Menu
-
-Code
-Issues
-Pull requests
-Commit 2d08bbe
-rafi983
-rafi983
-authored
-last week
-Verified
-Update README.md
-main
-1 parent 
-34d76f6
- commit 
-2d08bbe
-1 file changed
-Search within code
- 
-‎README.md
-+2
-Lines changed: 2 additions & 0 deletions
-
-
-Original file line number	Diff line number	Diff line change
-@@ -3,90 +3,91 @@
-
 <h1 align="center">Hi 👋, I'm RafiZaman</h1>
 <h3 align="center">A Frontend Web Developer</h3>
 
