@@ -17,9 +17,8 @@
 
 <img align="right" height="250" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 
-<div style="height: 250px">
 
-  - 🔭 I’m currently working on **Some frontend different projects**
+- 🔭 I’m currently working on **Some frontend different projects**
 
 - 🌱 I’m currently learning **Mern Stack**
 
@@ -30,11 +29,6 @@
 - ⚡ Fun fact **I love to play cricket and play games in Pc**
 
 
-</div>
-
-
-
----
 
 ### 🛠 Languages and Tools:
 
