@@ -18,7 +18,7 @@
 <img align="right" height="250" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 
 
-- 🔭 I’m currently working on **Some frontend different projects**
+- 🔭 I’m currently working on **Some frontend projects**
 
 - 🌱 I’m currently learning **Mern Stack**
 
@@ -26,11 +26,11 @@
   
 - 🎨 I Enjoy creating **visually appealing and functional interfaces**
 
-- 👯 I’m looking to **contribute more in github in the upcoming days 🤣**
+- 👯 I’m looking to **contribute more in github in future**
 
 - 📫 How to reach me **rafiirfan211@gmail.com**
 
-- ⚡ Fun fact **I love to play cricket and play games in Pc**
+- ⚡ Fun fact **I love to play cricket and play games**
 
 
 ---
