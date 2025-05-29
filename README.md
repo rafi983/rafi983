@@ -29,6 +29,10 @@
 
 - ⚡ Fun fact **I love to play cricket and play games in Pc**
 
+p align="left">
+<!-- This empty div forces the content to move below the floating image -->
+</p>
+
 
 ---
 
