@@ -1,7 +1,6 @@
 
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
-
 ---
 
 <h1 align="center">Hi 👋, I'm RafiZaman</h1>
@@ -32,7 +31,6 @@
 
 - ⚡ Fun fact **I love to play cricket and play games**
 
-
 ---
 
 ### 🛠 Languages and Tools:
@@ -44,7 +42,6 @@
 </div>
 
 ---
-
 
 
 ### 🧠 Daily Dev Routine + Philosophy
