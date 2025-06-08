@@ -21,15 +21,15 @@
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 🛠️ I Love solving **real-world problems with code**
+- 🛠️ Love solving **real-world problems with code**
   
-- 🎨 I Enjoy creating **visually appealing and functional interfaces**
+- 🎨 Enjoy creating **visually appealing and functional interfaces**
 
-- 👯 I’m looking to **contribute more in github in future**
+- 👯 Looking to **contribute more in github in future**
 
 - 📫 How to reach me **rafiirfan211@gmail.com**
 
-- ⚡ Fun fact **I love to play cricket and play games**
+- ⚡ Fun fact **Love to play cricket and play games**
 
 ---
 
