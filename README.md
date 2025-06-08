@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on **Some frontend projects**
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 Currently learning **Mern Stack**
 
 - 🛠️ Love solving **real-world problems with code**
   
