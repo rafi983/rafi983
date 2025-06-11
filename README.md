@@ -43,7 +43,6 @@
 
 ---
 
-
 ### 🧠 Daily Dev Routine + Philosophy
 
 <p align="center">
