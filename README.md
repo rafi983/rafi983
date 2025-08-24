@@ -12,8 +12,6 @@ I'm a **Front End Web Developer**. I am a tech enthusiast.I studied B.sc Enginee
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafi983&theme=darkhub" alt="rafi983" /></a> </p>
-
 <img align="right" height="250" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 
 
