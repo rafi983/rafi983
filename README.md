@@ -70,6 +70,8 @@ const rafi = {
 ```
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-741%20hrs%2050%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -146,7 +148,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2025 00:23:15 UTC
+ Last Updated on 31/08/2025 00:24:54 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
