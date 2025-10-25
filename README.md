@@ -45,8 +45,6 @@ I'm a **Front End Web Developer**. I am a tech enthusiast.I studied B.sc Enginee
 <a href="https://www.leetcode.com/riz82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atsuchak" height="30" width="40" /></a>
 </p>
 
----
-
 ### 🛠 Languages and Tools:
 
 <div align="center">
