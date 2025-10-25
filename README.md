@@ -34,16 +34,15 @@ I'm a **Front End Web Developer**. I am a tech enthusiast.I studied B.sc Enginee
 ###  Connections:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/rafi-irfan-zaman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atsuchak" height="30" width="40" /></a>
-  
+<a href="https://www.linkedin.com/in/rafi-irfan-zaman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atsuchak" height="30" width="40" /></a>  
 <a href="https://www.codechef.com/users/riz82" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="atsuchak" height="30" width="40" /></a>
-
 <a href="https://www.hackerrank.com/profile/riz82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="atsuchak" height="30" width="40" /></a>
-
 <a href="https://codeforces.com/profile/riz82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="atsuchak" height="30" width="40" /></a>
-
 <a href="https://www.leetcode.com/riz82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atsuchak" height="30" width="40" /></a>
 </p>
+
+---
+
 
 ### 🛠 Languages and Tools:
 
