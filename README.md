@@ -33,8 +33,6 @@ I'm a **Front End Web Developer**. I am a tech enthusiast.I studied B.sc Enginee
 
 ###  Connections:
 
-###  Connections:
-
 <p align="left">
 <a href="https://www.linkedin.com/in/rafi-irfan-zaman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafi983" height="30" width="40" /></a>  
 <a href="https://www.codechef.com/users/riz82" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rafi983" height="30" width="40" /></a>
@@ -44,17 +42,6 @@ I'm a **Front End Web Developer**. I am a tech enthusiast.I studied B.sc Enginee
 </p>
 
 ---
-
-<p align="left">
-<a href="https://www.linkedin.com/in/rafi-irfan-zaman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atsuchak" height="30" width="40" /></a>  
-<a href="https://www.codechef.com/users/riz82" target="blank"><img align="center" src="https://www.google.com/imgres?q=codechef%20cicon&imgurl=https%3A%2F%2Fimg.icons8.com%2F%3Fsize%3D1200%26id%3DLnZMjt9rZC3d%26format%3Djpg&imgrefurl=https%3A%2F%2Ficons8.com%2Ficon%2FLnZMjt9rZC3d%2Fcodechef&docid=Ti7hbrptyJHcvM&tbnid=JdRF_JsTl4ttsM&vet=12ahUKEwj00eGqqr-QAxVGXGwGHWBlF4cQM3oECBsQAA..i&w=1200&h=1200&hcb=2&ved=2ahUKEwj00eGqqr-QAxVGXGwGHWBlF4cQM3oECBsQAA" alt="atsuchak" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/riz82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="atsuchak" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/riz82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="atsuchak" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/riz82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atsuchak" height="30" width="40" /></a>
-</p>
-
----
-
 
 ### 🛠 Languages and Tools:
 
