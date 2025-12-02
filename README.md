@@ -188,4 +188,4 @@ C                        6 repos             █░░░░░░░░░░�
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Tea-station&theme=nightowl)](https://github.com/rafi983/Tea-station)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=searchGithubUsers&theme=nightowl)](https://github.com/rafi983/searchGithubUsers)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=carbonizo-client-side&theme=nightowl)](https://github.com/rafi983/carbonizo-client-side)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=carbonizo&theme=nightowl)](https://github.com/rafi983/carbonizo)
