@@ -179,9 +179,6 @@ C                        6 repos             █░░░░░░░░░░�
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Tic-Tac-Toe&theme=nightowl)](https://github.com/rafi983/Tic-Tac-Toe)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Hungry-Monster&theme=nightowl)](https://github.com/rafi983/Hungry-Monster)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=FarmFresh&theme=nightowl)](https://github.com/rafi983/FarmFresh)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Natours&theme=nightowl)](https://github.com/rafi983/Natours)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Glassmorphism-Calculator&theme=nightowl)](https://github.com/rafi983/Glassmorphism-Calculator)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi983&repo=Backroads-site&theme=nightowl)](https://github.com/rafi983/Backroads-site)
