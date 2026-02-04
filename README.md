@@ -35,7 +35,7 @@ I'm a **Front End Web Developer**. I am a tech enthusiast.I studied B.sc Enginee
 
 <p align="left">
 <a href="https://www.linkedin.com/in/rafi-irfan-zaman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafi983" height="30" width="40" /></a>  
-<a href="https://www.codechef.com/users/zaman_98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rafi983" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/riz82" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rafi983" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/riz82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rafi983" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/riz82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rafi983" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/_zaman98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rafi983" height="30" width="40" /></a>
