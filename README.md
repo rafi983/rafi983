@@ -163,8 +163,7 @@ C                        6 repos             █░░░░░░░░░░�
 
 ![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=riz82&theme=gruvbox)
 
-![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/graph?username=riz82&theme=gruvbox)
-
+![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/graph?username=riz82&theme=dark)
 
   
   <img src="https://mygithubstats-sandy.vercel.app/api/top-langs/?username=rafi983&theme=vision-friendly-dark&card_width=500" width="500" style="max-width: 500px;" alt="Top Languages" />
