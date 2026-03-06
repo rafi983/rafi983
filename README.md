@@ -159,6 +159,9 @@ C                        6 repos             █░░░░░░░░░░�
  Last Updated on 06/03/2026 00:27:34 UTC
 <!--END_SECTION:waka-->
 
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
+
+
 <div align="center">
   
   <img src="https://mygithubstats-sandy.vercel.app/api/top-langs/?username=rafi983&theme=vision-friendly-dark&card_width=500" width="500" style="max-width: 500px;" alt="Top Languages" />
