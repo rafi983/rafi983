@@ -161,9 +161,9 @@ C                        6 repos             █░░░░░░░░░░�
 
 <div align="center">
 
-![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=riz82&theme=radical)
+![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=riz82&theme=gruvbox)
 
-![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/graph?username=riz82&theme=radical)
+![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/graph?username=riz82&theme=gruvbox)
 
 
   
