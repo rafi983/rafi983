@@ -125,20 +125,16 @@ Sunday                   227 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               2 hrs 2 mins        ██████████████████░░░░░░░   73.71 % 
-SQL                      17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 2 hrs 46 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-habit_tracker            2 hrs 46 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 46 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -154,7 +150,7 @@ C                        6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/03/2026 00:21:04 UTC
+ Last Updated on 25/03/2026 00:22:52 UTC
 <!--END_SECTION:waka-->
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
