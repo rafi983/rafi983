@@ -163,10 +163,9 @@ C                        6 repos             █░░░░░░░░░░�
   <img src="https://rafigithubstats.vercel.app/api?username=rafi983&show_icons=true&theme=vision-friendly-dark" width="500" style="max-width: 500px;" alt="GitHub Stats" />
   <br />
   
-<a href="https://git.io/streak-stats">
   
-<img src="https://rafi-github-streak-stats.vercel.app?user=rafi983" alt="GitHub Streak" />
-
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=rafi983&theme=dark" alt="GitHub Streak" />
 </a>
 
 <br />
