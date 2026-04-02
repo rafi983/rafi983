@@ -165,7 +165,7 @@ C                        6 repos             █░░░░░░░░░░�
   
   
 <a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=rafi983&theme=dark" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=rafi983&theme=great-gatsby" alt="GitHub Streak" />
 </a>
 
 <br />
