@@ -13,27 +13,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # ✅ Checkout with full history (important)
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
           token: ${{ secrets.STATS_TOKEN }}
 
-      # ✅ Sync with latest remote changes
       - name: Pull latest changes
         run: git pull --rebase origin main
 
-      # ✅ Run stats generator
-      - name: Generate language stats
+      - name: Generate language stats (pie - repo based)
         uses: StefVuck/Github-Language-Stats@v1.2.0
         with:
           github_token: ${{ secrets.STATS_TOKEN }}
-          visualization_types: "leaderboard"
+          visualization_types: "pie"
           output_path: "stats"
+          dark_mode: true   # 🌙 dark theme
 
-      # ✅ Final safeguard (prevents failure if action push conflicts)
       - name: Ensure push succeeds
         run: |
           git pull --rebase origin main
-          git push || echo "Push skipped (already up to date or handled by action)"
+          git push || echo "Push skipped"
