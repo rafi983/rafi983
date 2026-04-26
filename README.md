@@ -168,7 +168,7 @@ Vue                      2 repos             ░░░░░░░░░░░�
 
 <div align="center">
   
-  <img src="./top-langs.svg" width="500" alt="Top Languages" />
+  <img src="./top-langs.svg?v=new" width="500" />
   <br />
 
   <img src="https://rafigithubstats.vercel.app/api?username=rafi983&show_icons=true&theme=vision-friendly-dark" width="500" style="max-width: 500px;" alt="GitHub Stats" />
