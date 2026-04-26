@@ -2,7 +2,7 @@ name: GitHub Stats Card
 on:
   schedule:
     - cron: '0 0 * * *'
-  workflow_dispatch:
+  workflow_dispatch: # Allows you to run this manually
 
 jobs:
   stats:
@@ -15,10 +15,9 @@ jobs:
       - name: Generate Top Langs Card
         uses: stats-organization/github-readme-stats-action@v1
         with:
-          # This tells the action specifically to make the Language card
           card: top-langs
-          # All your styling goes inside the 'options' line now
-          options: username=${{ github.repository_owner }}&theme=vision-friendly-dark&show_icons=true
+          # include_all_commits=true is the key to finding your work from the last 2 years
+          options: username=${{ github.repository_owner }}&theme=vision-friendly-dark&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=0
           path: ./top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
