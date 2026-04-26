@@ -168,17 +168,17 @@ Vue                      2 repos             ░░░░░░░░░░░�
 
 <div align="center">
   
-  <img src="stats/pie_by_repos.png" />
+  <!-- 🥧 Pie chart (fixed size) -->
+  <img src="stats/pie_by_repos.png" width="500" style="max-width: 500px;" />
 
   <img src="https://rafigithubstats.vercel.app/api?username=rafi983&show_icons=true&theme=vision-friendly-dark" width="500" style="max-width: 500px;" alt="GitHub Stats" />
   <br />
   
-  
-<a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=rafi983&theme=great-gatsby" alt="GitHub Streak" />
-</a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=rafi983&theme=great-gatsby" width="500" style="max-width: 500px;" alt="GitHub Streak" />
+  </a>
 
-<br />
+  <br />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafi983&theme=merko" width="500" style="max-width: 500px;" alt="Contribution Graph" />
 </div>
