@@ -167,9 +167,8 @@ Vue                      2 repos             ░░░░░░░░░░░�
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
 <div align="center">
-
-![Stats](stats/leaderboard_by_repos.png)
-
+  
+  <img src="stats/pie_by_repos.png" />
 
   <img src="https://rafigithubstats.vercel.app/api?username=rafi983&show_icons=true&theme=vision-friendly-dark" width="500" style="max-width: 500px;" alt="GitHub Stats" />
   <br />
