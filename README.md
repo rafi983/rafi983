@@ -168,7 +168,7 @@ Vue                      2 repos             ░░░░░░░░░░░�
 
 <div align="center">
   
-<img src="./top-langs.svg?v=10" width="500" />
+<img src="./top-langs.svg?v=1" width="500" />
 
 <br />
 
