@@ -168,6 +168,8 @@ Vue                      2 repos             ░░░░░░░░░░░�
 
 <div align="center">
 
+![Language Stats](stats/leaderboard_by_lines.png)
+
   <img src="https://rafigithubstats.vercel.app/api?username=rafi983&show_icons=true&theme=vision-friendly-dark" width="500" style="max-width: 500px;" alt="GitHub Stats" />
   <br />
   
