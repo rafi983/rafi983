@@ -168,7 +168,7 @@ Vue                      2 repos             ░░░░░░░░░░░�
 
 <div align="center">
   
-<img src="./top-langs.svg?v=1" width="500" alt="Top Languages" />
+<img src="./top-langs.svg?v=rebuild_2026" width="500" />
 
 <br />
 
