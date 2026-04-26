@@ -12,15 +12,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      # Using the updated 2026 repository name
-      - uses: stats-organization/github-readme-stats-action@v1
+      - name: Generate Top Langs Card
+        uses: stats-organization/github-readme-stats-action@v1
         with:
-          gh_token: ${{ secrets.GITHUB_TOKEN }}
-          output_path: ./top-langs.svg
-          theme: vision-friendly-dark
-          show_icons: true
-          # This ensures it fetches YOUR specific data
-          username: ${{ github.repository_owner }}
+          # This tells the action specifically to make the Language card
+          card: top-langs
+          # All your styling goes inside the 'options' line now
+          options: username=${{ github.repository_owner }}&theme=vision-friendly-dark&show_icons=true
+          path: ./top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push
         run: |
