@@ -17,7 +17,7 @@ jobs:
         with:
           card: top-langs
           # include_all_commits=true is the key to finding your work from the last 2 years
-          options: username=rafi983&theme=vision-friendly-dark&show_icons=true&include_all_commits=true&count_private=true&hide=css,html&layout=compact&langs_count=10
+          options: username=rafi983&theme=vision-friendly-dark&show_icons=true&include_all_commits=true&count_private=true&hide=css,html,scss,less,shell&layout=compact&langs_count=10
           path: ./top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
