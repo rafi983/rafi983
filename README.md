@@ -82,15 +82,15 @@ const rafi = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-932%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-933%20hrs%2028%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.25%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.29%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 295 Contributions in the Year 2026
+> 🏆 306 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -98,68 +98,20 @@ const rafi = {
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                49 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-🌆 Daytime                917 commits         ███████████░░░░░░░░░░░░░░   42.51 % 
-🌃 Evening                921 commits         ███████████░░░░░░░░░░░░░░   42.70 % 
-🌙 Night                  270 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Tuesday                  420 commits         █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-Wednesday                404 commits         █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-Thursday                 264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Friday                   271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Saturday                 272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Sunday                   298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-TypeScript               1 hr 36 mins        ██████████░░░░░░░░░░░░░░░   40.67 % 
-Other                    40 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-C++                      37 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-JSON                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Markdown                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-
-🔥 Editors: 
-Windsurf                 3 hrs 20 mins       █████████████████████░░░░   84.29 % 
-CLion                    37 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-
-🐱‍💻 Projects: 
-spotify                  1 hr 26 mins        █████████░░░░░░░░░░░░░░░░   36.55 % 
-chess                    54 mins             ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
-codeforces_probs_2       37 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-photoxvue                20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-netflix                  16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-
-💻 Operating System: 
-Windows                  3 hrs 57 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               126 repos           ███████████░░░░░░░░░░░░░░   44.21 % 
+JavaScript               125 repos           ███████████░░░░░░░░░░░░░░   43.86 % 
 TypeScript               52 repos            █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
 C++                      14 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-Vue                      6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Vue                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 Python                   3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 ```
 
 
 
 
- Last Updated on 13/05/2026 00:38:31 UTC
+ Last Updated on 14/05/2026 00:40:26 UTC
 <!--END_SECTION:waka-->
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
