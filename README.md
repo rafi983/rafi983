@@ -82,36 +82,34 @@ const rafi = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-933%20hrs%2028%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.29%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.35%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 306 Contributions in the Year 2026
+> 🏆 320 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 276 Public Repositories 
+> 📜 280 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               125 repos           ███████████░░░░░░░░░░░░░░   43.86 % 
-TypeScript               52 repos            █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-C++                      14 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-Vue                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-Python                   3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+JavaScript               125 repos           ███████████░░░░░░░░░░░░░░   43.25 % 
+TypeScript               52 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+C++                      14 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Vue                      11 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Python                   3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 ```
 
 
 
 
- Last Updated on 14/05/2026 00:40:26 UTC
+ Last Updated on 15/05/2026 00:36:45 UTC
 <!--END_SECTION:waka-->
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
