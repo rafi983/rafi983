@@ -82,84 +82,34 @@ const rafi = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-936%20hrs%2058%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.47%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.54%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 345 Contributions in the Year 2026
+> 🏆 357 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 287 Public Repositories 
+> 📜 290 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                49 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-🌆 Daytime                953 commits         ███████████░░░░░░░░░░░░░░   43.40 % 
-🌃 Evening                924 commits         ███████████░░░░░░░░░░░░░░   42.08 % 
-🌙 Night                  270 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-Tuesday                  420 commits         █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
-Wednesday                415 commits         █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-Thursday                 274 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Friday                   272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Saturday                 289 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Sunday                   298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-JavaScript               1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-Markdown                 1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-Vue                      1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-Other                    48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-TypeScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-
-🔥 Editors: 
-Windsurf                 7 hrs 1 min         ███████████████████████░░   93.04 % 
-IntelliJ IDEA            31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-
-🐱‍💻 Projects: 
-Aventoura                1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
-chess                    54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-ip-tracker               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-rest-countries-api       33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-interactive-card-details-29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-
-💻 Operating System: 
-Windows                  7 hrs 33 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               125 repos           ███████████░░░░░░░░░░░░░░   42.23 % 
-TypeScript               52 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Vue                      19 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-C++                      14 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-Python                   3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+JavaScript               124 repos           ██████████░░░░░░░░░░░░░░░   41.47 % 
+TypeScript               51 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Vue                      24 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+C++                      14 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Python                   3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 ```
 
 
 
 
- Last Updated on 17/05/2026 00:37:45 UTC
+ Last Updated on 18/05/2026 00:38:55 UTC
 <!--END_SECTION:waka-->
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
