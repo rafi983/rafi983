@@ -70,7 +70,7 @@ const rafi = {
   askMeAbout: ["web dev", "tech"],
   technologies: {
     web: {
-      frontEnd: ["ReactJS", "NextJS","VueJS","Redux","Bootstrap", "Material UI", ShadCN","Tailwind CSS"],
+      frontEnd: ["ReactJS","NextJS","VueJS","Redux","Bootstrap", "Material UI", "ShadCN","Tailwind CSS"],
       backEnd: ["NodeJS", "ExpressJS", "mongoose"],
     },
     databases: ["mongoDB", "mySQL","prisma","PostgreSQL],
