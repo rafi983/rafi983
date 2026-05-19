@@ -4,7 +4,7 @@
 ---
 
 <h1 align="center">Hi 👋, I'm RafiZaman</h1>
-<h3 align="center">A Frontend Web Developer</h3>
+<h3 align="center">A Full Stack Web Developer</h3>
 
 ### Glad to see you here! :octocat:
 
