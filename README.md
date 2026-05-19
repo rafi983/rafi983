@@ -73,7 +73,7 @@ const rafi = {
       frontEnd: ["ReactJS","NextJS","VueJS","Redux","Bootstrap", "Material UI", "ShadCN","Tailwind CSS"],
       backEnd: ["NodeJS", "ExpressJS", "mongoose"],
     },
-    databases: ["mongoDB", "mySQL","prisma","PostgreSQL],
+    databases: ["mongoDB", "mySQL","prisma","PostgreSQL"],
     misc: ["Firebase"],
   },
   currentFocus: "Full Stack Web Development",
