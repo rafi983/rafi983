@@ -17,7 +17,7 @@ I'm a **Full Stack Web Developer**. I am a tech enthusiast. I studied B.sc Engin
 
 - 🔭 I’m currently working on **Some frontend projects**
 
-- 🌱 Currently learning **Mern Stack**
+- 🌱 Currently learning **Angular Js**
 
 - 🛠️ Love solving **real-world problems with code**
   
