@@ -76,8 +76,8 @@ const rafi = {
     databases: ["mongoDB"],
     misc: ["Firebase"],
   },
-  currentFocus: "Front-End Web Development",
-  nextTarget: "Competitive programming",
+  currentFocus: "Full Stack Web Development",
+  nextTarget: "Machine Learning",
 };
 ```
 
