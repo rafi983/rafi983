@@ -70,10 +70,10 @@ const rafi = {
   askMeAbout: ["web dev", "tech"],
   technologies: {
     web: {
-      frontEnd: ["ReactJS", "NextJS", "Redux", "Bootstrap 5", "Tailwind CSS"],
+      frontEnd: ["ReactJS", "NextJS","VueJS","Redux","Bootstrap", "Material UI", ShadCN","Tailwind CSS"],
       backEnd: ["NodeJS", "ExpressJS", "mongoose"],
     },
-    databases: ["mongoDB"],
+    databases: ["mongoDB", "mySQL","prisma","PostgreSQL],
     misc: ["Firebase"],
   },
   currentFocus: "Full Stack Web Development",
