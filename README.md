@@ -82,8 +82,6 @@ const rafi = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-946%20hrs%2043%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.65%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -125,21 +123,16 @@ Sunday                   311 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               7 mins              ████████░░░░░░░░░░░░░░░░░   32.69 % 
-Text                     6 mins              ███████░░░░░░░░░░░░░░░░░░   28.02 % 
-Markdown                 3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Other                    2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-next-gen-learning-dashboa22 mins             █████████████████████████   98.50 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -155,7 +148,7 @@ Python                   3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/06/2026 00:37:50 UTC
+ Last Updated on 08/06/2026 00:39:11 UTC
 <!--END_SECTION:waka-->
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
