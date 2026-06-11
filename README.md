@@ -90,8 +90,6 @@ const rafi = {
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 402 Contributions in the Year 2026
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 298 Public Repositories 
@@ -125,16 +123,19 @@ Sunday                   311 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               39 mins             ███████████████████████░░   90.95 % 
+GitIgnore file           3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            43 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+2026-fifawc-bracket      43 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  43 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -150,7 +151,7 @@ Python                   3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/06/2026 00:40:29 UTC
+ Last Updated on 11/06/2026 00:41:21 UTC
 <!--END_SECTION:waka-->
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
