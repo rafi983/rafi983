@@ -125,19 +125,16 @@ Sunday                   311 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               39 mins             ███████████████████████░░   90.95 % 
-GitIgnore file           3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-2026-fifawc-bracket      43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -153,7 +150,7 @@ Python                   3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/06/2026 00:42:47 UTC
+ Last Updated on 18/06/2026 00:43:35 UTC
 <!--END_SECTION:waka-->
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
