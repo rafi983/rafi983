@@ -82,6 +82,8 @@ const rafi = {
 ```
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-950%20hrs%2026%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.66%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -123,22 +125,22 @@ Sunday                   312 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   3 mins              ██████████░░░░░░░░░░░░░░░   38.34 % 
-Batchfile                2 mins              ███████░░░░░░░░░░░░░░░░░░   26.95 % 
-Markdown                 1 min               █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Text                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-GitIgnore file           0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Python                   3 mins              █████████░░░░░░░░░░░░░░░░   36.98 % 
+Batchfile                2 mins              ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
+Markdown                 1 min               █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+Text                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+textmate                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 
 🔥 Editors: 
-Copilot CLI              6 mins              ███████████████████░░░░░░   76.41 % 
-PhpStorm                 2 mins              ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
+Copilot CLI              6 mins              ██████████████████░░░░░░░   73.70 % 
+PhpStorm                 2 mins              ███████░░░░░░░░░░░░░░░░░░   26.30 % 
 
 🐱‍💻 Projects: 
-fastapi_assignment1      8 mins              ████████████████████████░   97.00 % 
-Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+fastapi_assignment1      8 mins              ████████████████████████░   97.10 % 
+Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+Windows                  9 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -154,7 +156,7 @@ Python                   4 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 01:56:07 UTC
+ Last Updated on 26/07/2026 01:59:28 UTC
 <!--END_SECTION:waka-->
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
