@@ -82,10 +82,6 @@ const rafi = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-946%20hrs%205%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2038%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.66%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -161,7 +157,7 @@ Python                   4 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 01:50:59 UTC
+ Last Updated on 29/07/2026 01:52:53 UTC
 <!--END_SECTION:waka-->
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
