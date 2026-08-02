@@ -127,19 +127,16 @@ Sunday                   312 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-textmate                 0 secs              ██████████████████████░░░   88.64 % 
-GitIgnore file           0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-fastapi_assignment1      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -161,7 +158,7 @@ Python                   4 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 02:03:21 UTC
+ Last Updated on 02/08/2026 01:58:33 UTC
 <!--END_SECTION:waka-->
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
