@@ -92,11 +92,11 @@ const rafi = {
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 409 Contributions in the Year 2026
+> 🏆 412 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 301 Public Repositories 
+> 📜 302 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -104,20 +104,20 @@ const rafi = {
 
 ```text
 🌞 Morning                49 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-🌆 Daytime                996 commits         ███████████░░░░░░░░░░░░░░   44.35 % 
-🌃 Evening                931 commits         ██████████░░░░░░░░░░░░░░░   41.45 % 
-🌙 Night                  270 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+🌆 Daytime                996 commits         ███████████░░░░░░░░░░░░░░   44.31 % 
+🌃 Evening                933 commits         ██████████░░░░░░░░░░░░░░░   41.50 % 
+🌙 Night                  270 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   240 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-Tuesday                  428 commits         █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-Wednesday                419 commits         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-Thursday                 274 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Friday                   275 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Saturday                 298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Sunday                   312 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Monday                   240 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Tuesday                  428 commits         █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+Wednesday                419 commits         █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Thursday                 274 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Friday                   275 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Saturday                 298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Sunday                   314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
 ```
 
 
@@ -127,38 +127,61 @@ Sunday                   312 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 25 mins             ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+Python                   23 mins             ███████░░░░░░░░░░░░░░░░░░   26.05 % 
+Bash                     18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+.env file                9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Text                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Copilot CLI              1 hr 4 mins         ██████████████████░░░░░░░   72.16 % 
+PhpStorm                 24 mins             ███████░░░░░░░░░░░░░░░░░░   27.84 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+expense-tracker          1 hr 26 mins        ████████████████████████░   96.51 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 29 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 25 mins (95.85%)
+
+✍️ 3,166 lines written by AI, 190 lines written by hand (94.34% AI-written)
+
+🔤 0 Input Tokens, 65,820 Output Tokens
+
+💵 $0.99 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 20 AI Prompts
+
+Sonnet                   3,166 lines         █████████████████████████   100.00 % 
+Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 94.34% of written lines came from AI
+📄 Detailed Prompter — average 790 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
+🚀 High AI Trust — 5.69% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               125 repos           ██████████░░░░░░░░░░░░░░░   40.45 % 
-TypeScript               52 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-HTML                     43 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Vue                      31 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-Python                   4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+JavaScript               125 repos           ██████████░░░░░░░░░░░░░░░   40.32 % 
+TypeScript               52 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+HTML                     43 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Vue                      31 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Python                   5 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 
 
 
 
- Last Updated on 09/08/2026 01:05:42 UTC
+ Last Updated on 10/08/2026 01:06:43 UTC
 <!--END_SECTION:waka-->
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
