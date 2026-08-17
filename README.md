@@ -127,45 +127,22 @@ Sunday                   314 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 25 mins             ███████░░░░░░░░░░░░░░░░░░   28.33 % 
-Python                   23 mins             ███████░░░░░░░░░░░░░░░░░░   26.05 % 
-Bash                     18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-.env file                9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-Text                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Copilot CLI              1 hr 4 mins         ██████████████████░░░░░░░   72.16 % 
-PhpStorm                 24 mins             ███████░░░░░░░░░░░░░░░░░░   27.84 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-expense-tracker          1 hr 26 mins        ████████████████████████░   96.51 % 
-Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 29 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 25 mins (95.85%)
-
-✍️ 3,166 lines written by AI, 190 lines written by hand (94.34% AI-written)
-
-🔤 0 Input Tokens, 65,820 Output Tokens
-
-💵 $0.99 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 20 AI Prompts
-
-Sonnet                   3,166 lines         █████████████████████████   100.00 % 
-Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 94.34% of written lines came from AI
-📄 Detailed Prompter — average 790 characters per prompt
-🔁 Iterative Prompter — average 20 prompts per session
-🚀 High AI Trust — 5.69% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -181,7 +158,7 @@ Python                   5 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 00:50:04 UTC
+ Last Updated on 17/08/2026 00:46:36 UTC
 <!--END_SECTION:waka-->
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
