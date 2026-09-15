@@ -127,16 +127,19 @@ Sunday                   314 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 44 mins             ███████████████████░░░░░░   75.17 % 
+Python                   14 mins             ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  59 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+UoPeople python assignmen59 mins             █████████████████████████   98.95 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  59 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -158,7 +161,7 @@ Python                   5 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 02:35:25 UTC
+ Last Updated on 15/09/2026 02:39:39 UTC
 <!--END_SECTION:waka-->
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
