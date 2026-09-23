@@ -127,22 +127,39 @@ Sunday                   314 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 22 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  14 mins             ████████████████░░░░░░░░░   62.70 % 
+Copilot CLI              8 mins              █████████░░░░░░░░░░░░░░░░   37.30 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+uopeople assignment      22 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  22 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 20 mins (91.56%)
+
+✍️ 85 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 0 Input Tokens, 10,927 Output Tokens
+
+💵 $0.11 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 5 AI Prompts
+
+Sonnet                   85 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 105 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -158,7 +175,7 @@ Python                   5 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 02:36:42 UTC
+ Last Updated on 23/09/2026 02:35:46 UTC
 <!--END_SECTION:waka-->
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
