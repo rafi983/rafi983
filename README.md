@@ -127,44 +127,41 @@ Sunday                   314 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Text                     20 mins             █████████████░░░░░░░░░░░░   52.80 % 
-Markdown                 11 mins             ███████░░░░░░░░░░░░░░░░░░   29.64 % 
-Python                   6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Markdown                 36 mins             ████████████████████████░   96.85 % 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 🔥 Editors: 
-PyCharm                  14 mins             █████████░░░░░░░░░░░░░░░░   36.07 % 
-Copilot CLI              13 mins             █████████░░░░░░░░░░░░░░░░   34.93 % 
-Copilot                  11 mins             ███████░░░░░░░░░░░░░░░░░░   29.00 % 
+PyCharm                  21 mins             ███████████████░░░░░░░░░░   58.44 % 
+Copilot CLI              9 mins              ███████░░░░░░░░░░░░░░░░░░   26.01 % 
+Copilot                  5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
 
 🐱‍💻 Projects: 
-uopeople tasks           38 mins             █████████████████████████   98.11 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+uopeople                 37 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  38 mins             █████████████████████████   100.00 % 
+Windows                  37 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 mins (93.0%)
+⏱ AI Coding Time: 36 mins (97.04%)
 
-✍️ 84 lines written by AI, 62 lines written by hand (57.53% AI-written)
+✍️ 0 lines written by AI, 104 lines written by hand (0.0% AI-written)
 
-🔤 88,143 Input Tokens, 0 Output Tokens
+🔤 106,174 Input Tokens, 0 Output Tokens
 
-💵 $0.57 Estimated AI Cost This Week
+💵 $0.42 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 7 AI Prompts
+🧠 1 AI Sessions, 5 AI Prompts
 
-Sonnet                   84 lines            █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 57.53% of written lines came from AI
-📝 Concise Prompter — average 78 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 42.47% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 250 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -180,7 +177,7 @@ Python                   5 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 03:34:57 UTC
+ Last Updated on 05/10/2026 03:13:45 UTC
 <!--END_SECTION:waka-->
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
