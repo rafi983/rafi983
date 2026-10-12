@@ -82,11 +82,7 @@ const rafi = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-950%20hrs%2012%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2037%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.66%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.76%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -127,41 +123,44 @@ Sunday                   314 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 36 mins             ████████████████████████░   96.85 % 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Text                     35 mins             ██████████████████░░░░░░░   71.69 % 
+Markdown                 12 mins             ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+GitIgnore file           1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 🔥 Editors: 
-PyCharm                  21 mins             ███████████████░░░░░░░░░░   58.44 % 
-Copilot CLI              9 mins              ███████░░░░░░░░░░░░░░░░░░   26.01 % 
-Copilot                  5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Copilot CLI              30 mins             ███████████████░░░░░░░░░░   60.57 % 
+PyCharm                  19 mins             ██████████░░░░░░░░░░░░░░░   39.43 % 
+Copilot                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-uopeople                 37 mins             █████████████████████████   100.00 % 
+uopeople                 48 mins             ████████████████████████░   97.19 % 
+Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 💻 Operating System: 
-Windows                  37 mins             █████████████████████████   100.00 % 
+Windows                  50 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 mins (97.04%)
+⏱ AI Coding Time: 35 mins (71.69%)
 
-✍️ 0 lines written by AI, 104 lines written by hand (0.0% AI-written)
+✍️ 209 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 106,174 Input Tokens, 0 Output Tokens
+🔤 86,690 Input Tokens, 0 Output Tokens
 
-💵 $0.42 Estimated AI Cost This Week
+💵 $0.83 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 5 AI Prompts
+🧠 1 AI Sessions, 13 AI Prompts
 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   209 lines           █████████████████████████   100.00 % 
+Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 250 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 81 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 0.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -177,7 +176,7 @@ Python                   5 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 03:30:27 UTC
+ Last Updated on 12/10/2026 03:30:26 UTC
 <!--END_SECTION:waka-->
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
