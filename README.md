@@ -127,45 +127,42 @@ Sunday                   314 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-C++                      49 mins             █████████████████░░░░░░░░   66.21 % 
-Text                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Markdown                 11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Text                     12 mins             ████████████░░░░░░░░░░░░░   47.52 % 
+Markdown                 11 mins             ████████████░░░░░░░░░░░░░   46.20 % 
+Python                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
 
 🔥 Editors: 
-Copilot CLI              52 mins             ██████████████████░░░░░░░   70.35 % 
-CLion                    16 mins             █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
-PyCharm                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Copilot CLI              19 mins             ███████████████████░░░░░░   76.98 % 
+PyCharm                  5 mins              ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
 
 🐱‍💻 Projects: 
-codeforces_probs_2       49 mins             █████████████████░░░░░░░░   66.21 % 
-uop tasks                23 mins             ████████░░░░░░░░░░░░░░░░░   31.67 % 
-Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+uop tasks                23 mins             ███████████████████████░░   93.72 % 
+Unknown Project          1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
 
 💻 Operating System: 
-Windows                  1 hr 15 mins        █████████████████████████   100.00 % 
+Windows                  25 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 8 mins (91.48%)
+⏱ AI Coding Time: 19 mins (77.6%)
 
 ✍️ 27 lines written by AI, 62 lines written by hand (30.34% AI-written)
 
-🔤 488,024 Input Tokens, 199,599 Output Tokens
+🔤 52,868 Input Tokens, 4,891 Output Tokens
 
-💵 $6.52 Estimated AI Cost This Week
+💵 $0.26 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 15 AI Prompts
+🧠 1 AI Sessions, 4 AI Prompts
 
 Sonnet                   27 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 30.34% of written lines came from AI
-📄 Detailed Prompter — average 1,223 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 76.92% of changed lines were hand-edited
+📝 Concise Prompter — average 252 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 69.66% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -181,7 +178,7 @@ Python                   5 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 02:47:54 UTC
+ Last Updated on 21/10/2026 02:41:41 UTC
 <!--END_SECTION:waka-->
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
