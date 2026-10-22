@@ -127,26 +127,26 @@ Sunday                   314 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Text                     12 mins             ████████████░░░░░░░░░░░░░   47.52 % 
-Markdown                 11 mins             ████████████░░░░░░░░░░░░░   46.20 % 
-Python                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Python                   27 mins             ████████████░░░░░░░░░░░░░   48.89 % 
+Markdown                 16 mins             ███████░░░░░░░░░░░░░░░░░░   29.87 % 
+Text                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
 
 🔥 Editors: 
-Copilot CLI              19 mins             ███████████████████░░░░░░   76.98 % 
-PyCharm                  5 mins              ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+Copilot CLI              38 mins             █████████████████░░░░░░░░   67.91 % 
+PyCharm                  18 mins             ████████░░░░░░░░░░░░░░░░░   32.09 % 
 
 🐱‍💻 Projects: 
-uop tasks                23 mins             ███████████████████████░░   93.72 % 
-Unknown Project          1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+uop tasks                55 mins             ████████████████████████░   97.19 % 
+Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 💻 Operating System: 
-Windows                  25 mins             █████████████████████████   100.00 % 
+Windows                  56 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 mins (77.6%)
+⏱ AI Coding Time: 47 mins (83.82%)
 
 ✍️ 27 lines written by AI, 62 lines written by hand (30.34% AI-written)
 
@@ -154,14 +154,14 @@ Windows                  25 mins             ███████████�
 
 💵 $0.26 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 4 AI Prompts
+🧠 2 AI Sessions, 12 AI Prompts
 
 Sonnet                   27 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 30.34% of written lines came from AI
-📝 Concise Prompter — average 252 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 135 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🔍 Hands-On Reviewer — 69.66% of changed lines were hand-edited
 ```
 
@@ -178,7 +178,7 @@ Python                   5 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 02:41:41 UTC
+ Last Updated on 22/10/2026 02:38:59 UTC
 <!--END_SECTION:waka-->
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
