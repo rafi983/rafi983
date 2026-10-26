@@ -127,42 +127,38 @@ Sunday                   314 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   27 mins             ████████████░░░░░░░░░░░░░   48.89 % 
-Markdown                 16 mins             ███████░░░░░░░░░░░░░░░░░░   29.87 % 
-Text                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+Python                   26 mins             █████████████████████░░░░   83.33 % 
+Markdown                 5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 
 🔥 Editors: 
-Copilot CLI              38 mins             █████████████████░░░░░░░░   67.91 % 
-PyCharm                  18 mins             ████████░░░░░░░░░░░░░░░░░   32.09 % 
+Copilot CLI              19 mins             ███████████████░░░░░░░░░░   60.58 % 
+PyCharm                  12 mins             ██████████░░░░░░░░░░░░░░░   39.42 % 
 
 🐱‍💻 Projects: 
-uop tasks                55 mins             ████████████████████████░   97.19 % 
-Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+uop tasks                31 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  56 mins             █████████████████████████   100.00 % 
+Windows                  31 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 mins (83.82%)
+⏱ AI Coding Time: 27 mins (88.84%)
 
-✍️ 27 lines written by AI, 62 lines written by hand (30.34% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 52,868 Input Tokens, 4,891 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.26 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 12 AI Prompts
-
-Sonnet                   27 lines            █████████████████████████   100.00 % 
+🧠 1 AI Sessions, 8 AI Prompts
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 30.34% of written lines came from AI
-📝 Concise Prompter — average 135 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 69.66% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 77 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -178,7 +174,7 @@ Python                   5 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 02:29:08 UTC
+ Last Updated on 26/10/2026 02:29:45 UTC
 <!--END_SECTION:waka-->
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
