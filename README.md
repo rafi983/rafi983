@@ -82,9 +82,9 @@ const rafi = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-953%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-953%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2012%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.76%20million%20lines%20of%20code-blue?style=flat)
 
@@ -127,26 +127,24 @@ Sunday                   314 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 31 mins             ██████████████░░░░░░░░░░░   54.98 % 
-Python                   26 mins             ███████████░░░░░░░░░░░░░░   45.02 % 
+Markdown                 26 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-PyCharm                  39 mins             █████████████████░░░░░░░░   67.20 % 
-Copilot CLI              19 mins             ████████░░░░░░░░░░░░░░░░░   32.80 % 
+PyCharm                  26 mins             █████████████████████████   99.84 % 
+Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🐱‍💻 Projects: 
-uop tasks                31 mins             ██████████████░░░░░░░░░░░   54.02 % 
-uopeople_final_python_exa24 mins             ██████████░░░░░░░░░░░░░░░   41.81 % 
-uopeople_final_exam      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+uopeople_final_python_exa24 mins             ███████████████████████░░   90.93 % 
+uopeople_final_exam      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
 
 💻 Operating System: 
-Windows                  58 mins             █████████████████████████   100.00 % 
+Windows                  26 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 mins (67.64%)
+⏱ AI Coding Time: 11 mins (42.72%)
 
 ✍️ 0 lines written by AI, 18 lines written by hand (0.0% AI-written)
 
@@ -154,14 +152,14 @@ Windows                  58 mins             ███████████�
 
 💵 $2.09 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 9 AI Prompts
+🧠 2 AI Sessions, 1 AI Prompts
 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 80 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 107 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -178,7 +176,7 @@ Python                   5 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 03:15:33 UTC
+ Last Updated on 29/10/2026 03:40:36 UTC
 <!--END_SECTION:waka-->
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
