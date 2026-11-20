@@ -186,7 +186,6 @@ Python                   5 repos             ░░░░░░░░░░░�
   <!-- 🥧 Pie chart (fixed size) -->
   <img src="stats/pie_by_repos.png" width="500" style="max-width: 500px;" />
 
-  <img src="https://rafigithubstats.vercel.app/api?username=rafi983&show_icons=true&theme=vision-friendly-dark" width="500" style="max-width: 500px;" alt="GitHub Stats" />
   <br />
   
   <a href="https://git.io/streak-stats">
@@ -197,12 +196,6 @@ Python                   5 repos             ░░░░░░░░░░░�
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafi983&theme=merko" width="500" style="max-width: 500px;" alt="Contribution Graph" />
 </div>
-
-<p align="center">
-  <a href="https://github.com/rafi983">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafi983&theme=merko" alt="rafi983's GitHub Contribution"/>
-  </a>
-</p>
 
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
